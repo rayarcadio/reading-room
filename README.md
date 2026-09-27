@@ -17,6 +17,34 @@ can open it. See the "Adding a new story" section below for how to publish new w
 - `_layouts/`, `assets/css`, `assets/js` — site templates, styling, dark-mode + "continue
   reading" behavior.
 
+## Keeping an existing story in sync
+
+`gunhead-universe/stories/*.md` is the source of truth for the 5 Gunhead Universe
+stories — this repo's `_stories/*-01.md` files are converted copies, not hand-edited.
+
+**Automatic:** a git hook in `gunhead-universe` (`.githooks/post-commit`) fires
+whenever a commit there matches that repo's version-transition convention (e.g.
+"GUNHEAD v9 → v10") and touches a file in `stories/`. It calls `sync-story.sh` here
+automatically — converts the story and pushes it, no manual step. Routine WIP edits
+(no version arrow in the commit message) don't trigger it, since a version bump is
+that repo's own signal for "this revision is finished and approved."
+
+**Manual / one-off:** run it yourself any time:
+```bash
+./sync-story.sh /Users/Ray/Desktop/gunhead-universe/stories/GUNHEAD-v10.md
+```
+
+**One-time setup after a fresh clone** of `gunhead-universe` (the hook is tracked in
+git, but which folder git treats as its hooks directory is local config, not
+tracked):
+```bash
+cd /Users/Ray/Desktop/gunhead-universe
+git config core.hooksPath .githooks
+```
+
+Adding a *new* story (a 6th subject, a standalone, etc.) isn't automatic yet — do
+that by hand once per new story, below.
+
 ## Adding a new story
 
 1. Pick a short lowercase `story_id` (e.g. `jude`).
