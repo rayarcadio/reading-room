@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <rect width="400" height="600" fill="#4b2e83"/>
+  <polygon points="0,600 400,420 400,600" fill="#ffd400" opacity="0.85"/>
+  <polygon points="0,0 120,0 0,140" fill="#ffd400" opacity="0.6"/>
+  <text x="200" y="270" font-family="Arial Black, Impact, sans-serif" font-size="42" font-weight="900" fill="#ffffff" text-anchor="middle">TIC TAC</text>
+  <text x="200" y="310" font-family="Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" opacity="0.85">SIMONE FLOYD</text>
+</svg>

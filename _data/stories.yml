@@ -1,0 +1,57 @@
+gunhead:
+  title: GUNHEAD
+  subtitle: The Roman Casador Story
+  series: gunhead-universe
+  order: 1
+  status: Complete
+  description: >-
+    When gunfire tears through his high school, Roman Casador has seconds to
+    decide who he's going to be when it's over — and the boy who walks out
+    isn't the one who walked in.
+  cover: /assets/covers/gunhead.svg
+
+calamari:
+  title: CALAMARI
+  subtitle: The Lazaro Piscione Story
+  series: gunhead-universe
+  order: 2
+  status: Complete
+  description: >-
+    Fourteen-year-old Lazaro Piscione slices his finger open one ordinary
+    morning and discovers his body doesn't work the way it used to.
+  cover: /assets/covers/calamari.svg
+
+tictac:
+  title: TIC TAC
+  subtitle: The Simone Floyd Story
+  series: gunhead-universe
+  order: 3
+  status: First Draft
+  description: >-
+    Simone Floyd counts lightning and keeps everything filed away where it
+    can't hurt her — until the night her family's careful order finally cracks.
+  cover: /assets/covers/tictac.svg
+
+nightingale:
+  title: NIGHTINGALE
+  subtitle: The Sol Maria Casador Story
+  series: gunhead-universe
+  order: 4
+  status: First Draft
+  description: >-
+    Sol Maria Casador has spent fourteen years protecting her children from a
+    call she can't stop taking. Her past is catching up to the curb outside
+    their school.
+  cover: /assets/covers/nightingale.svg
+
+rosie:
+  title: ROSIE
+  subtitle: The Rosalie Casador Story
+  series: gunhead-universe
+  order: 5
+  status: First Draft
+  description: >-
+    Rosalie Casador grows up in the space between her brother's story and her
+    own — until a name on a lock screen turns out to be the start of something
+    bigger.
+  cover: /assets/covers/rosie.svg

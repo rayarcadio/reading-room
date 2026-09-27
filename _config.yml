@@ -1,0 +1,24 @@
+title: Reading Room
+description: A private reading room for Ray Arcadio's stories.
+url: "https://rayarcadio.github.io"
+baseurl: "/reading-room"
+
+collections:
+  stories:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: stories
+    values:
+      layout: chapter
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

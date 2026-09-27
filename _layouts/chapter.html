@@ -1,0 +1,43 @@
+---
+layout: default
+---
+{% assign story = site.data.stories[page.story_id] %}
+{% assign chapters = site.stories | where: "story_id", page.story_id | sort: "chapter" %}
+{% assign chapter_count = chapters.size %}
+{% assign current_index = 0 %}
+{% for c in chapters %}
+  {% if c.chapter == page.chapter %}
+    {% assign current_index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+{% assign prev_index = current_index | minus: 1 %}
+{% assign next_index = current_index | plus: 1 %}
+
+<article class="chapter" data-story-id="{{ page.story_id }}" data-chapter="{{ page.chapter }}">
+  <header class="chapter-header">
+    <a class="back-to-home" href="{{ '/' | relative_url }}">&larr; All stories</a>
+    <h1 class="chapter-story-title">{{ story.title }}</h1>
+    <p class="chapter-story-subtitle">{{ story.subtitle }}</p>
+    {% if chapter_count > 1 %}
+      <p class="chapter-label">
+        Chapter {{ page.chapter }} of {{ chapter_count }}{% if page.chapter_title %}: {{ page.chapter_title }}{% endif %}
+      </p>
+    {% endif %}
+    <span class="story-status status-{{ story.status | slugify }}">{{ story.status }}</span>
+  </header>
+
+  <div class="chapter-body">
+    {{ content }}
+  </div>
+
+  <nav class="chapter-nav">
+    {% if prev_index >= 0 %}
+      <a class="chapter-nav-prev" href="{{ chapters[prev_index].url | relative_url }}">&larr; Previous chapter</a>
+    {% else %}
+      <span></span>
+    {% endif %}
+    {% if next_index < chapter_count %}
+      <a class="chapter-nav-next" href="{{ chapters[next_index].url | relative_url }}">Next chapter &rarr;</a>
+    {% endif %}
+  </nav>
+</article>

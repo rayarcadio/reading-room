@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<section class="hero">
+  <h1 class="hero-title">{{ site.title }}</h1>
+  <p class="hero-tagline">Stories by Ray Arcadio.</p>
+</section>
+
+<div id="continue-reading" class="continue-reading" hidden>
+  <span>Pick up where you left off:</span>
+  <a id="continue-reading-link" href="#"></a>
+</div>
+
+{% assign all_series = site.data.series | sort: "order" %}
+{% for series in all_series %}
+  <section class="series-block">
+    <h2 class="series-title">{{ series.name }}</h2>
+    {% if series.blurb %}<p class="series-blurb">{{ series.blurb }}</p>{% endif %}
+
+    <div class="story-grid">
+      {% for pair in site.data.stories %}
+        {% assign id = pair[0] %}
+        {% assign story = pair[1] %}
+        {% if story.series == series.id %}
+        {% assign first_chapter = site.stories | where: "story_id", id | sort: "chapter" | first %}
+        <a class="story-card" href="{{ first_chapter.url | relative_url }}" data-story-id="{{ id }}">
+          <div class="story-cover">
+            <img src="{{ story.cover | relative_url }}" alt="{{ story.title }} cover" loading="lazy">
+          </div>
+          <div class="story-info">
+            <h3 class="story-title">{{ story.title }}</h3>
+            <p class="story-subtitle">{{ story.subtitle }}</p>
+            <p class="story-description">{{ story.description }}</p>
+            <span class="story-status status-{{ story.status | slugify }}">{{ story.status }}</span>
+          </div>
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+{% endfor %}
