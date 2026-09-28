@@ -169,6 +169,8 @@ That's just how I am, I guess. Slow to jump anywhere. Careful, my mom calls it �
 
 I didn't say anything — just *Mr. Meli*, and the two coins, and the not-picking.
 
+## IV. Present — Roman's Room, Before School
+
 *[I let the pencil go loose in my hand — not really drawing anything anymore, just tracing shapes that didn't mean nothing yet. Took a breath, a real one, all the way down, let it back out slow.*
 
 *I don't think about it enough, ngl — how much of my life just runs on love that happens to come in women. Mom, up before the sun, burning her hands for me on stuff she can't even really afford most weeks. Rosie, half asleep and still finding the exact right thing to say before I even know I need it. Even yesterday — that whole diner thing, corny as it was. Rosie's arm basically wrapped around me before she even knew what she was protecting me from.*
@@ -178,6 +180,8 @@ I didn't say anything — just *Mr. Meli*, and the two coins, and the not-pickin
 *I don't know why that hit different right then, laying there. Maybe 'cause for the first time I had something I literally couldn't hand off to any of them. Something none of that love could reach into and fix.*
 
 *I looked back down at the pencil, still loose between my fingers, and noticed the wood grain running along the shaft of it — not just noticed, but really saw it, every ring and fiber distinct, more photograph than tree at this range. Same with the paper under it, the tooth of it, thousands of tiny fibers catching the graphite instead of just looking smooth from a normal distance. I didn't know what that was about either, and let myself sink back into yesterday, back before any of it started — or before I'd noticed it starting, anyway.]*
+
+## V. Flashback — Birthday, Continued
 
 By eleven we were back at the apartment, and Mom wasted no time turning us into an errand crew. "Sazón, soda, chips, ice, cups, plates, napkins, ice cream," she said, folding five twenties into Rosie's hand. "A hundred, that should cover it. Write it down so you don't forget nothing. Fortieth Street bodega, not Broadway."
 
@@ -243,7 +247,9 @@ Rosie reappeared at my elbow, finally holding actual cash. "What'd I miss?"
 
 It just didn't seem worth saying out loud.
 
-*[Present day, still in bed, still sketching, I heard Rosie's footsteps coming down the hall before I even heard her voice — quick, purposeful, the specific pace of somebody with a plan.*
+## VI. Present — Roman's Room, Before School
+
+*[Still in bed, still sketching, I heard Rosie's footsteps coming down the hall before I even heard her voice — quick, purposeful, the specific pace of somebody with a plan.*
 
 *"USING THE BATHROOM!!" she yelled through my door, not asking, informing, already past it by the time the last word landed.*
 
@@ -253,7 +259,9 @@ It just didn't seem worth saying out loud.
 
 *Figured it was probably just nerves. First day of school does that to people, right? Or maybe it wasn't nerves at all. Maybe it was just the other thing, the thing I didn't have a name for yet, already rearranging how my whole body worked before I even got out of bed.*
 
-*I didn't know which one it was. I let it go, same as everything else, and went back to yesterday.]*
+*I didn't know which one it was. I let it go, same as everything else.]*
+
+## VII. Cafeteria — Present, Continuous
 
 Time was doing something strange. Roman couldn't tell if it had slowed down around him or if he was the one moving through it slower, but either way the cafeteria had gone quiet — too quiet for a room this full — kids covering their ears now, the silence itself gone loud, everyone bracing without making a sound.
 
@@ -271,7 +279,9 @@ Where was she. What lunch did she even have today. Was she somewhere safe, crouc
 
 *Oh God, no. Please let her be okay.*
 
-*[Present day, my bedroom, early — "Why am I feeling like this," I said out loud, to nobody, staring at the ceiling. I hadn't drank anything weird. Wasn't bit by a radioactive spider or whatever. Seriously, what the hell.*
+## VIII. Present — Roman's Room, Before School
+
+*[My bedroom, early — "Why am I feeling like this," I said out loud, to nobody, staring at the ceiling. I hadn't drank anything weird. Wasn't bit by a radioactive spider or whatever. Seriously, what the hell.*
 
 *And seriously — what the hell was that finger thing yesterday. Andrew didn't notice, too deep in the game to notice his own hands most days. But Jude. Jude I wasn't so sure about. He'd gone quiet after, quieter than usual even for him, and he'd left kind of early, and he hadn't really looked at me right the rest of the night. Could've been nothing. Probably was nothing.*
 
@@ -279,7 +289,7 @@ Where was she. What lunch did she even have today. Was she somewhere safe, crouc
 
 *I let it sit there, unresolved, and went back to yesterday anyway — because yesterday had plenty of questions too, the shelf, the finger, all of it, I wasn't pretending otherwise. It just came wrapped in a whole day of good stuff around it, cake and Rosie and the diner, enough padding that the questions hadn't found a way to actually hurt yet. Today didn't have any padding on it at all.]*
 
----
+## IX. Flashback — Birthday, Continued
 
 By the time we got back with the bags, the apartment already smelled different — Pine-Sol and something sweet underneath it, candle wax maybe, and Mom had music going low from the kitchen speaker, old stuff, the kind she plays when she's cooking and thinks nobody's really listening. The banner was up. The balloons were up. She didn't even let us react to it for more than a second before she was already directing traffic — ice in the cooler, sodas in the fridge, chips in the bowl, not the bag, Romy, we're not animals.
 
@@ -321,13 +331,17 @@ I splashed water on my face. Looked at myself in the mirror longer than I needed
 
 I went back and finished the match. Died almost immediately, actually, because I couldn't stop looking at my own hand instead of the screen.
 
-*[Present day, my bed, I held my finger up in front of my face and just stared at it, willing it to happen again, on purpose this time, wanting hard enough to summon it, treating it as some muscle I could flex if I just found the right angle. I squeezed my eyes half shut, concentrated until my head actually started to hurt a little, imagined that same hot-cold pull from yesterday.*
+## X. Present — Roman's Room, Before School
+
+*[My bed, I held my finger up in front of my face and just stared at it, willing it to happen again, on purpose this time, wanting hard enough to summon it, treating it as some muscle I could flex if I just found the right angle. I squeezed my eyes half shut, concentrated until my head actually started to hurt a little, imagined that same hot-cold pull from yesterday.*
 
 *Nothing. Just a finger. Just skin and knuckle and the callus.*
 
 *Figures,* I thought. *Works when I don't want it to. Won't work when I do.*
 
 *I let my hand drop back onto the blanket and went back to yesterday, because at least yesterday already happened, and I already knew how to survive it.]*
+
+## XI. Flashback — Birthday, Continued
 
 Dinner started around five, once the actual family started rolling in — Tío Felix first, holding the cake box flat with both hands, moving it with the care you'd give something that could actually go off, then a wave of cousins, then Titi Carmen with her famous flan that nobody asked for but everybody eats. The apartment got as loud as it only gets a few times a year, everybody talking over everybody, three conversations happening in the same six feet of space.
 
@@ -337,9 +351,13 @@ For a while it was just normal. Just good. Stories getting told that everybody a
 
 Then the cake came out, and everybody sang, actually good this time, actually rehearsed a little because it's family, and I blew out fourteen candles plus the one for good luck, and made a wish I still didn't tell anybody, same as the diner, except this one I meant a little harder.
 
-*[Present day, I'd only made it as far as the bathroom, sitting on the closed toilet lid, still half asleep, holding the bracelet in my hand instead of doing anything useful with the five minutes I had left. The little silver rose caught the light differently in here than it had the night before — sharper, somehow, more of it visible than I used to see in anything. I'd grabbed Rosie's card off my nightstand on my way in too, out of habit more than anything, and it was sitting on the edge of the sink now, still slightly bent from riding around in her back pocket all day yesterday.*
+## XII. Present — Roman's Room, Before School
+
+*[I'd only made it as far as the bathroom, sitting on the closed toilet lid, still half asleep, holding the bracelet in my hand instead of doing anything useful with the five minutes I had left. The little silver rose caught the light differently in here than it had the night before — sharper, somehow, more of it visible than I used to see in anything. I'd grabbed Rosie's card off my nightstand on my way in too, out of habit more than anything, and it was sitting on the edge of the sink now, still slightly bent from riding around in her back pocket all day yesterday.*
 
 *I let myself sink back into yesterday — right after the cake, right when she'd actually handed all of this to me.]*
+
+## XIII. Flashback — Birthday, Continued
 
 Gifts came after. Cousins gave cousin-gifts — a hoodie, gift cards, a stuffed animal from a younger cousin who clearly still thought I was nine. Danny, my cousin, the one who actually pays attention, handed me a flat rectangular box wrapped bad on purpose, making sure I knew he'd wrapped it himself.
 
@@ -377,7 +395,9 @@ I didn't tell her. Didn't tell anybody.
 
 Just added it to the pocket. Heaviest stone yet.
 
-*[Present day, I finally got up off the toilet and got moving for real, and everything felt loud in a way mornings don't usually feel loud. The water hitting the sink sounded almost musical, every drop distinct instead of just a blur of running water. I could smell the mint of the toothpaste before I even opened the cap, sharp and clean, cutting through everything else — the fabric softener smell still clinging to the towel, the faint trace of Mom's perfume from somewhere down the hall, layered under the coffee she'd already started.*
+## XIV. Present — Roman's Room, Before School
+
+*[I finally got up off the toilet and got moving for real, and everything felt loud in a way mornings don't usually feel loud. The water hitting the sink sounded almost musical, every drop distinct instead of just a blur of running water. I could smell the mint of the toothpaste before I even opened the cap, sharp and clean, cutting through everything else — the fabric softener smell still clinging to the towel, the faint trace of Mom's perfume from somewhere down the hall, layered under the coffee she'd already started.*
 
 *I brushed my teeth slower than I needed to, just noticing it. The bristles against my gums, the exact texture of it, more detail than brushing my teeth had ever had before in my entire life.*
 
@@ -401,7 +421,7 @@ Somebody under the next table whimpered. Roman didn't look up. He just kept runn
 
 ---
 
-## IV. Present — Roman's Room, Morning of Day One
+## XV. Present — Roman's Room, Morning of Day One
 
 Fully dressed now, just a couple minutes left before Mom really would start yelling, I noticed something move near the ceiling — a spider, small, crawling along the crack where the wall met the paint, minding its own business.
 
@@ -473,7 +493,7 @@ I walked toward the entrance. When I glanced back once, Mom was still parked the
 
 ---
 
-## V. Return to Cafeteria — Present, Continuous
+## XVI. Return to Cafeteria — Present, Continuous
 
 "Mom, I gotta go. I'll call you back."
 
@@ -581,7 +601,7 @@ He didn't answer. Couldn't. He was already gone somewhere the sound couldn't rea
 
 ---
 
-## VI. Institutional Cutaway
+## XVII. Institutional Cutaway
 
 The detective arrived forty minutes after the first units, once the building had been cleared and the wounded triaged, and he walked the scene with the same unhurried method he'd walked a hundred scenes before it — slow, hands clasped behind his back, letting his eyes do the work before his mouth did.
 
