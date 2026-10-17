@@ -385,6 +385,7 @@ Her brother had been sick in ways no textbook could name since before he could e
 Someone had done that to him. Someone had reached inside his small body and written something cruel and new, and whoever they were, they had left Roman carrying the only key in the universe to a prize sitting on a pedestal in another world.
 
 Rosie had gone entirely still at the kitchen table that morning. Then, she had finished her coffee, kissed her mother goodbye, and started planning.
+
 ---
 
 The corridor resolved around her and it wasn't a castle.
@@ -533,13 +534,15 @@ She wrapped it that night and set it among the rest of the pile the next evening
 
 The doors at the far end swung open, and Yesenia walked in a minute after the bell, same as always. She scanned the room once, found Rosie already sitting at their usual table, and peeled off toward the vending machine a few feet away first, digging in her bag for change — a candy bar first, then eggs from the breakfast line, a combination Rosie still hadn't stopped giving her grief about.
 
-Around the cafeteria, the teachers were settling into their corners, one to each, chatting with the kids nearest them, and the two on door duty took up their posts on either side of the room. Mr. Meli was two tables over, leaning against the wall opposite the doors, coffee in hand, working through his week of mandatory cafeteria duty, usually spent scrolling a phone behind a clipboard.
+Around the cafeteria, the teachers were settling into their corners, one to each, chatting with the kids nearest them, and the two on door duty took up their posts at the two doors, one at each end of the entrance wall. Mr. Meli was two tables over, leaning against the wall by the vending machines, coffee in hand, working through his week of mandatory cafeteria duty, usually spent scrolling a phone behind a clipboard.
+
+Somewhere across the room the freshmen had claimed the tables by the doors. Rosie didn't look for Roman. First day, first lunch — he'd sooner eat the tray than get waved at by his big sister in front of Andrew.
 
 By 10:52, Yesenia was still stuck in the breakfast line, and the table was empty except for Rosie. She was already late to fifth period thanks to Yesenia.
 
 A gunshot rang out in the hallway about fifty feet from the cafeteria. It cracked flat and hard across the school, and Rosie's first thought was that someone had dropped a stack of trays by the kitchen — loud, careless, nothing more. A second shot cracked out right after it, and screaming broke out across in the hallway. Everyone in the cafeteria began to scatter coordinated and crawling under tables staying low, dozens of voices at once, and Rosie now understood that the bangs were not trays. She wondered where Roman was, then Yesenia, frantically scanning the cafeteria.
 
-Across the room, the four teachers in the corners started their lockdown drill. They began herding students to a corner of the cafeteria, but as the shots rang closer time was running out and instead the teachers instructed the students to hide under the tables. No yelling, just hand motions. the teachers who normally stand by each door, one on each side of the cafeteria, had already locked them. Hearing the shooter approaching the cafeteria, Mr. Meli saw Rosie frozen in her seat, he grabbed her arm and pulled her behind the nearest vending machine, into a gap barely wide enough for one adult, let alone two people pressed into it together. He positioned his own body between her and the open room, angled so that anyone shooting into their corner would hit him first.
+Across the room, the four teachers in the corners started their lockdown drill. They began herding students to a corner of the cafeteria, but as the shots rang closer time was running out and instead the teachers instructed the students to hide under the tables. No yelling, just hand motions. the teachers who normally stand by each door, one at each end of the entrance wall, had already locked them. Hearing the shooter approaching the cafeteria, Mr. Meli saw Rosie frozen in her seat, he grabbed her arm and pulled her behind the nearest vending machine, into a gap barely wide enough for one adult, let alone two people pressed into it together. He positioned his own body between her and the open room, angled so that anyone shooting into their corner would hit him first.
 
 The next several seconds were torturously detectable. Rosie heard more gunshots, evenly spaced, methodical, each one closer than the last. She heard the shooter's footsteps on the tile, unhurried, as though he had all the time he needed. She heard someone praying two tables over, the same six words on a loop. She could hear Mr. Meli breathing hard, too fast, from the back of his head only inches from her face. She lost track of how much time had actually passed — ten seconds, maybe two minutes — because she couldn't hold on to the order any of it arrived in.
 
@@ -549,7 +552,7 @@ Rosie leaned toward the opposite edge of the vending machine — away from Mr. M
 
 The shooter stood maybe twenty feet away, gun raised, moving down the row of tables at that same unhurried pace. She saw students shot under the tables, a few lying on the floor, bleeding. Lots of screaming. She had one clear look at him — young, sweating, a face she didn't recognize — before he turned away from her, pointing his weapon toward a few students crawling low for the door. The shooter took aim and fired at them. She thought of bum-rushing him from behind and ending it — but her eyes moved past him, pulled toward something else on the far side of the room.
 
-A young man stood near the far wall, dressed in dark jeans and a shirt covered in a paint-splatter print — the same print Roman had put on that very morning — except where his face should have been, there was a long metal barrel instead, already leveled, a low hum climbing in pitch, the air around its mouth starting to shimmer. It was pointed at the shooter, and at Rosie, directly in line behind him.
+A young man stood across the room, against the wall between the two doors, dressed in dark jeans and the Basquiat shirt — the same one Roman had put on that very morning — except where his face should have been, there was a long metal barrel instead, already leveled, a low hum climbing in pitch, the air around its mouth starting to shimmer. It was pointed at the shooter, and at Rosie, directly in line behind him.
 
 Rosie had no time to work out the shirt, the barrel, what any of it meant. She knew one thing: she had to slip, now.
 
@@ -577,9 +580,9 @@ Her phone had read 10:54 behind the vending machine. It read 10:45 now. Nine min
 
 The doors at the far end swung open, and Yesenia walked in a minute after the bell, same as always. She scanned the room once, found Rosie already sitting at their usual table, and peeled off toward the vending machine a few feet away first, digging in her bag for change.
 
-Rosie had already watched her do this. Same doors, same one-look scan of the room, same hand digging through the same bag. Around the cafeteria, the teachers were settling into their corners, one to each, and the two on door duty were taking up their posts on either side of the room — all of it arriving in the same order it had arrived once already this morning, in the other cafeteria. Rosie's pulse climbed into her throat. She kept her hands flat on the table and her face bored, a senior waiting on a friend, and let none of it reach the surface.
+Rosie had already watched her do this. Same doors, same one-look scan of the room, same hand digging through the same bag. Around the cafeteria, the teachers were settling into their corners, one to each, and the two on door duty were taking up their posts at the two doors, one at each end of the entrance wall — all of it arriving in the same order it had arrived once already this morning, in the other cafeteria. Rosie's pulse climbed into her throat. She kept her hands flat on the table and her face bored, a senior waiting on a friend, and let none of it reach the surface.
 
-Mr. Meli was two tables over, leaning against the wall opposite the doors, coffee in hand — the same spot, the same cup. He was staring down at the cup, then up at the far wall, still standing whole, then back down at the cup, blinking hard, mouth hanging open. All the color had gone out of his face. When he found her, his eyebrows went up and stayed there, waiting.
+Mr. Meli was two tables over, leaning against the wall by the vending machines, coffee in hand — the same spot, the same cup. He was staring down at the cup, then up at the far wall, still standing whole, then back down at the cup, blinking hard, mouth hanging open. All the color had gone out of his face. When he found her, his eyebrows went up and stayed there, waiting.
 
 Rosie didn't have an answer worth giving him. Not one he could survive hearing, standing in the middle of a cafeteria at 10:45 in the morning.
 
