@@ -9,7 +9,7 @@ permalink: /read/gunhead/1/
 
 The tile under the table reeked of bleach and old milk. Out of everything happening, that was what his brain picked to notice.
 
-Nine tables in the cafeteria. They were under the third one from the first door, the table pushed up against the wall between the two doors — nothing but cinderblock between them and the hallway. His backpack was wedged against his knee, the corner of his sketchbook digging into his leg through the canvas. He didn't move it. A little discomfort was the least of his problems right now.
+Nine tables in the cafeteria. They were under the third one from the first door, the table pushed up against the wall between the two doors — nothing but cinderblock between them and the hallway. His backpack was wedged against his knee, the corner of his journal digging into his leg through the canvas. He didn't move it. A little discomfort was the least of his problems right now.
 
 Mrs. Okafor had the lights off and her finger against her lips — the same hush she'd have used on a room of eight-year-olds during an overplayed fire drill. Nobody was laughing. A girl two tables over was praying in Spanish, so quiet it was just breath with shapes in it.
 
@@ -79,7 +79,7 @@ I flexed my hand. Normal. Just a hand. Just skin and knuckle and the little call
 
 "Normal"..Lol, what a lie. Another word we use as an armor to make us feel accepted.
 
-I put the pencil down and let my head fall back against the pillow, staring at the ceiling, and I begin to think about yesterday. Warm and fuzzy yesterday. My birthday, which landed the day before school started again — in the past it's either been the same day or the second day of school. Other kids get that thing where their moms send in cupcakes or somebody's dad shows up with a stack of pizzas during fourth period and the whole class sings. But it's hard to do that at the beginning of a school year, when everyone is new and there's no class chemistry yet. FML.
+I put the pencil down and let my head fall back against the pillow, staring at the ceiling, and I started thinking about yesterday. Warm and fuzzy yesterday. My birthday, which landed the day before school started again — in the past it's either been the same day or the second day of school. Other kids get that thing where their moms send in cupcakes or somebody's dad shows up with a stack of pizzas during fourth period and the whole class sings. But it's hard to do that at the beginning of a school year, when everyone is new and there's no class chemistry yet. FML.
 
 I mentally slip back to yesterday...
 
@@ -144,7 +144,7 @@ She rolled her eyes. "Whatever. " turning back to her screen. "Oh,  did you see 
 
 She went digging for it, thumb flying, and it reminded me of Saturday. Same booth. Rosie had been halfway through complaining about her college essays when she stopped mid-sentence, fork in the air, eyes on the napkin dispenser, for maybe nine seconds. Then she blinked, grinned at nothing, and asked Dawn for a pen. She wrote on the back of the receipt and folded it into her pocket before I could see. I didn't ask.
 
-Mom returns from the "bathroom" and a while later the food came out — except it wasn't just Dawn. It was Dawn and two other waiters, one of them balancing a tray, and they were walking toward our booth at this deliberate, semi-choreographed pace, and I played along.. I widen my eyes a little, sat up straighter, let my face go *wait, what* — because even though I already knew exactly what was about to happen, Mom didn't need to know that. No one there did. Letting her have the surprise even though I couldn't was the least I could do.
+Mom came back from the "bathroom" and a while later the food came out — except it wasn't just Dawn. It was Dawn and two other waiters, one of them balancing a tray, and they were walking toward our booth at this deliberate, semi-choreographed pace, and I played along.. I widened my eyes a little, sat up straighter, let my face go *wait, what* — because even though I already knew exactly what was about to happen, Mom didn't need to know that. No one there did. Letting her have the surprise even though I couldn't was the least I could do.
 
 There was a candle stuck in my French toast.
 
@@ -206,7 +206,7 @@ I didn't say anything — thought about *Mr. Meli* and *Dr. Casador* co-existing
 
 By eleven we were back at the apartment, and Mom wasted no time turning us into an errand crew. "Sazón, soda, chips, ice, cups, plates, napkins, ice cream," she said, folding five twenties into Rosie's hand. "A hundred, that should cover it. Write it down so you don't forget nothing. Fortieth Street bodega, not the one on Broadway. They never have anything."
 
-She pulled Rosie a few steps away toward the kitchen, low voice, clearly not meaning for me to hear it — except I did. All of it. Same as in the diner. Clean as if she'd said it right next to my ear instead of six feet away with a running faucet between us. 
+She pulled Rosie a few steps away toward the kitchen, low voice, clearly not meaning for me to hear it — except I did. All of it. Clean as if she'd been standing beside me instead of six feet away with a running faucet between us. 
 
 "Felix is picking up the cake from Dulce de Leche, don't let him talk you into stopping anywhere else, we don't got time." Ordinary. Nothing. But I stood there a second too long, a little thrown by the fact that I'd caught every word of something that wasn't supposed to reach me at all.
 
@@ -282,13 +282,13 @@ I stood up a little straighter, looked around and micro smiled to myself. Helpin
 
 ## VII. Day one: Cafeteria — Lockdown Continuous
 
-Time was behaving strangely. Roman couldn't tell if it had slowed down around him or if he was the one moving through it slower, but either way the cafeteria had gone quiet — too quiet for a room this full — kids covering their ears now, the silence itself gone loud, everyone bracing without making a sound.
+Roman couldn't tell if time had slowed down around him or if he was the one moving through it slower, but either way the cafeteria had gone quiet — too quiet for a room this full — kids covering their ears now, the silence itself gone loud, everyone bracing without making a sound.
 
 Except it wasn't actually silent. Not to Roman.
 
 Underneath the held-breath quiet — floor wax, lukewarm tater tots, a copper taste in his own mouth — he could pick out individual breathing, dozens of separate rhythms, fast and shallow, some kids holding it until their lungs burned and then letting it all out at once. Whispering that sounded close, right at his ear, except when he turned his head the top of it scraped the gum-crusted underside of the table and there was nobody there — it was coming from clear across the room, from kids three and four tables away, praying in three different languages, one girl repeating the same six words over and over, rosary-steady, someone else murmuring the Our Father, low and even, an older kid trying to talk a younger one through it in a voice built for exactly this. Fear, and prayer, and an edge of kindness in it somewhere, all of it arriving at once, all of it too clear to be normal. Every eye under every table was on the bottom of the doors, on the thin strip of hallway light underneath.
 
-He didn't understand it yet. Just knew, somewhere underneath the confusion, that something had actually happened to him — that this wasn't nerves or adrenaline doing something ordinary to his senses. Everything from yesterday and this morning was real.
+He didn't understand it yet. Just knew, somewhere underneath the confusion, that something had actually happened to him. Everything from yesterday and this morning was real.
 
 And watching all of it — the panic, the praying, fifty different kids handling the same fear fifty different ways — his mind went to his sister.
 
@@ -312,11 +312,11 @@ Where was she? He pulled her schedule back up anyway, tapped on it and zoomed in
 
 ## IX. Yesterday — Birthday, Continued
 
-By the time we got back with the bags, the apartment already smelled different — Pine-Sol and something sweet underneath it, candle wax maybe, and Mom had Marc Anthony going on the kitchen speaker, his first album, the one she plays when she's cooking. The banner was up. The balloons were up. She didn't even let us react to it for more than a second before she was already directing traffic — ice in the cooler, sodas in the fridge, chips in the bowl, not the bag, Romy, we're not animals.
+By the time we got back with the bags, the apartment already smelled different — Pine-Sol and something sweet underneath it, candle wax maybe, and Mom had Marc Anthony going on the kitchen speaker, *Otra Nota*, the one she plays when she's cooking. The banner was up. The balloons were up. She didn't even let us react to it for more than a second before she was already directing traffic — ice in the cooler, sodas in the fridge, chips in the bowl, not the bag, Romy, we're not animals.
 
 Jude and Andrew showed up around one, Andrew first, gripping his controller with the seriousness of a guy who'd brought his own weapon to a fight, which honestly tracked.
 
-"Yo, happy birthday, bro," he said, doing that half-hug half-handshake thing. "You good? You look tired."
+"Yo, happy birthday, bro," he said, half-hugging me with his free arm. "You good? You look tired."
 
 "I'm fourteen now. I age different."
 
@@ -368,7 +368,7 @@ I went back and finished the match. Died almost immediately, actually, because I
 
 Dinner started around five, once the actual family started rolling in — Tío Felix first, holding the cake box flat with both hands, elbows locked, taking the hallway one slow step at a time, then a wave of cousins, then Titi Carmen with her famous flan that nobody asked for but everybody eats. The apartment got as loud as it only gets a few times a year, everybody talking over everybody, three conversations happening in the same six feet of space.
 
-The oxtail came out first — Mom's rabo, dark and falling-off-the-bone, the smell of it alone enough to make grown men go quiet — with the white rice and black beans, and I tore into it, starved — between the diner and the bodega and the CoD thing, I hadn't really sat down and eaten since breakfast. Except now that I was tasting it, I was *really* tasting it — not just the usual stuff, the garlic and the cumin and whatever else she puts in there that she'll never actually tell anybody, but the individual pieces of it, my mouth suddenly able to take a dish apart ingredient by ingredient instead of just eating it. I could pick out the exact moment the sazón hit different from the jarred stuff, could taste something faintly metallic off the pot itself, some mineral note under everything else that had probably always been there and I'd just never noticed. It should've freaked me out. Mostly it just made the food taste better than it ever had before. *Is it puberty? That's it.. it's gotta be puberty. Why hasn't anyone ever told me this is how it hits? I'll ask my uncle. But that means there'll be questions I can't answer. Forget it... I'll deal with it for now.*
+The oxtail came out first — Mom's rabo, dark and falling-off-the-bone, the smell of it alone enough to make grown men go quiet — with the white rice and black beans, and I tore into it, starved — between the diner and the bodega and the CoD thing, I hadn't really sat down and eaten since breakfast. Except now that I was tasting it, I was *really* tasting it — not just the usual stuff, the garlic and the cumin and whatever else she puts in there that she'll never actually tell anybody, but the individual pieces of it, my mouth suddenly able to take a dish apart ingredient by ingredient instead of just eating it. I could pick out the exact moment the sazón came through on its own, could taste something faintly metallic off the pot itself, some mineral note under everything else that had probably always been there and I'd just never noticed. It should've freaked me out. Mostly it just made the food taste better than it ever had before. *Is it puberty? That's it.. it's gotta be puberty. Why hasn't anyone ever told me this is how it hits? I'll ask my uncle. But that means there'll be questions I can't answer. Forget it... I'll deal with it for now.*
 
 For a while it was just normal. Just good. Stories getting told that everybody already knew the ending of — Tío Felix telling the one about Dad's cousin and the flat tire in Atlantic City for the four hundredth time, Mom laughing at it fresh.
 
@@ -376,7 +376,7 @@ Then the cake came out, and everybody sang, actually good this time, actually re
 
 ## XII. Day one: Roman's Room — before school
 
-*[I heard Rosie finishing up in the bathroom, so I sat on the edge of my bed and waited until I heard her head back to her room. Then I made it to the bathroom, sitting on the closed toilet lid, still half asleep, holding the bracelet in my hand instead of doing anything useful with the five minutes I had left. The little silver rose caught the light differently in here than it had the night before — sharper, somehow, more of it visible than I used to see in anything. I'd grabbed Rosie's card off my nightstand on my way in too, and it was sitting on the edge of the sink now, still slightly bent from riding around in her back pocket all day yesterday.]*
+*[I heard Rosie finishing up in the bathroom, so I sat on the edge of my bed and waited until I heard her head back to her room. Then I made it to the bathroom, sitting on the closed toilet lid, still half asleep, holding the bracelet in my hand instead of doing anything useful with the five minutes I had left. The little silver rose caught the light differently in here than it had the night before — sharper, every petal edge distinct. I'd grabbed Rosie's card off my nightstand on my way in too, and it was sitting on the edge of the sink now, still slightly bent from riding around in her back pocket all day yesterday.]*
 
 
 ## XIII. Yesterday — Birthday, Continued
@@ -385,7 +385,7 @@ The second the last candle went out, Mom struck — she'd been hovering right be
 
 Gifts came after. Cousins gave cousin-gifts — a hoodie, gift cards, a stuffed animal from a younger cousin who clearly still thought I was nine. Danny, my cousin, the one who actually pays attention, handed me a flat rectangular box wrapped bad on purpose, making sure I knew he'd wrapped it himself.
 
-"You already know what it is," he said. "You've been through like three of the last one."
+"You already know what it is," he said. "You went through like three of the last ones."
 
 It was a journal. New, blank, that stiff unbroken spine, that smell paper gets before anybody's touched it. "You're welcome," he said, before I even said anything, and I laughed and told him he knew me too well, which he did.
 
@@ -450,7 +450,7 @@ Somebody under the next table whimpered. Roman didn't look up. He just kept runn
 
 Fully dressed now, just a couple minutes left before Mom really would start yelling, I noticed something move near the ceiling — a spider, small, crawling along the crack where the plaster met the peeling paint, minding its own business.
 
-I stared at it without meaning to stare, my eyes just landing there and refusing to move on. And the zoom happened again, easy this time, almost gentle compared to the bodega shelf — the whole ceiling narrowing, the ordinary blur of the room falling away, until it was just the spider, huge and close, every hair on its legs distinct, two tiny black eyes catching the light in the room.
+I stared at it without meaning to stare, my eyes just landing there and refusing to move on. And the zoom happened again, easy this time, almost gentle compared to the bodega shelf — the whole ceiling narrowing, the ordinary blur of the room falling away, until it was just the spider, huge and close, every hair on its legs distinct, its front pair of eyes, tiny and black, catching the light in the room.
 
 I didn't gasp this time. I didn't flinch.
 
@@ -540,7 +540,7 @@ Roman's backpack was still wedged against his knee. He could feel the corner of 
 
 The door, labeled "DOOR A" for security purposes, banged again — the third time now, each one closer together than the last. Whoever was on the other side was done testing it.
 
-Then came the shots. Two of them, flat and close, aimed low, and the sound of the lock giving way landed almost anticlimactic after all that buildup — a small metallic clatter, nothing dramatic, nothing you'd get in a movie.
+Then came the shots. Two of them, flat and close, aimed low, and the sound of the lock giving way landed almost anticlimactic after all that buildup — a small metallic clatter, nothing dramatic.
 
 Then a kick, and the door slammed open against the wall.
 
@@ -598,9 +598,9 @@ He stopped fighting it and closed his fist around the energy building in him.
 
 He rose. Andrew's weight slid off his chest onto the tile.
 
-Whatever was left of the boy who'd been lying on that floor a half-second earlier folded itself into something else entirely — his body dropping low into a crouch, weight balanced forward onto the balls of his feet, shoulders squared, no fourteen-year-old left in the stance at all, only something built for exactly one purpose. Energy gathered visibly along his forearms, the air over them a heat shimmer off August asphalt, building, concentrating, enveloping everything.
+Whatever was left of the boy who'd been lying on that floor a half-second earlier dropped low into a crouch, weight balanced forward onto the balls of his feet, shoulders squared, no fourteen-year-old left in the stance at all. Energy gathered visibly along his forearms, the air over them a heat shimmer off August asphalt, building, concentrating, enveloping everything.
 
-Roman's face was gone. In its place, a cannon — massive, seamless, extending twenty inches out from where his face used to be, fused to what remained of his skull, fourteen years in the making. The metal of it had no name Roman knew — a dull, deep gray with something almost oily shifting underneath the surface when the light moved across it, engineering from the future or a different dimension. And still, somehow, he could see. Perfectly. The whole room in total clarity, the crosshair steady and unwavering, locked dead center on the shooter's flat blue eyes. Roman barely registered what his face had become.
+Roman's face was gone. In its place, a cannon — massive, seamless, extending twenty inches out from where his face used to be, fused to what remained of his skull, fourteen years in the making. The metal of it had no name Roman knew — a dull, deep gray with something almost oily shifting underneath the surface when the light moved across it, engineering from the future or a different dimension. And still, somehow, he could see. Perfectly. The whole room in total clarity, the crosshair steady and unwavering, locked dead center on the shooter's flat blue eyes.
 
 The shooter's turn completed itself in pieces — the shoulder first, then the hips, then the head coming around last, dragged by all the rest of it — and somewhere in the middle of that turn his eyes found Roman and widened. What he saw was the mouth of a barrel, twelve inches across and twenty inches long, where a fourteen-year-old's face should have been.
 
@@ -626,13 +626,13 @@ He lay there in his new jeans, soaked dark at the knee where he'd fallen into An
 
 His phone had slid halfway out of his pocket in the fall, screen still lit, still facing up. It buzzed once against the tile, then again — **ROSIE**, stacked twice over on the lock screen, each one arriving on top of the last.
 
-None of it reached him. He couldn't have answered if he'd tried. On the tile beside him, his sister's name lit up the screen again — a useless, glowing rectangle casting light over a boy who had already checked out.
+None of it reached him. He couldn't have answered if he'd tried. On the tile beside him, his sister's name lit up the screen again — a useless, glowing rectangle casting light over a boy too far gone to see it.
 
 ---
 
 ## XVIII. Institutional Cutaway
 
-The detective arrived fifteen minutes after the first units, while the last of the ambulances were still loading, and he walked the scene with the same unhurried method he'd walked a hundred scenes before it — slow, hands clasped behind his back, letting his eyes do the work before his mouth did.
+The detective arrived fifteen minutes after the first units, while the last of the ambulances were still loading, and he walked the scene with the unhurried method he'd walked a hundred scenes before it — slow, hands clasped behind his back, letting his eyes do the work before his mouth did.
 
 He stopped at the hole.
 
@@ -640,7 +640,7 @@ The edges of the hole were too clean for a bomb, the cinderblock *removed* more 
 
 He'd seen gang shootings. He'd seen a car bomb once, years back, upstate. Nothing in either had prepared him for this.
 
-"Get me the cafeteria cameras," he said to the principal, who was standing a few feet off, his entire understanding of the world visibly rearranging itself in real time. "All of it. Every angle you got in this room."
+"Get me the cafeteria cameras," he said to the principal, who was standing a few feet off, his face gray, his mouth working on nothing. "All of it. Every angle you got in this room."
 
 It took ten minutes to pull the footage onto a drive. The detective watched it once, the principal standing beside him, jaw tightening a little more with each new angle. He watched a boy transform. He watched a wall disappear. He watched the boy fold back into himself and drop to the floor, a puppet with its strings cut.
 
@@ -685,7 +685,7 @@ He sat frozen behind the wheel, staring at the asphalt. His mind raced, catalogi
 
 ---
 
-Three states away, in an office with no nameplate on the door, the agent set the phone down and sat there a second before crossing the hall. He was big — six-four, still carrying the swagger of a college linebacker a decade removed from actually playing, University of Wisconsin, a name he dropped more than he probably should in casual conversation. He liked this job, for the same reason some men like contact sports — for the hit, not just the win.
+Three states away, in an office with no nameplate on the door, the agent set the phone down and sat there a second before crossing the hall. He was big — six-four, still carrying the swagger of a college linebacker a decade removed from actually playing, University of Wisconsin, a name he dropped more than he probably should in casual conversation. He liked this job. Some men like contact sports for the hit more than the win; he was one of them.
 
 His supervisor looked up from her desk when he knocked. Carrie Ann Killiard — Killer Ann, to everyone who worked under her, though never within earshot — dressed head to toe in black, a thin leather wristband on her left wrist that she never took off, a birthday gift from her partner years back. She had the build of someone who didn't lose arguments, and she generally didn't.
 
