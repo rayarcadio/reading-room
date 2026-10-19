@@ -59,9 +59,9 @@ His gut knew it before his head did — whatever was on the other side of that d
 
 I woke up before my alarm, which never happens, and for a second I just laid there listening to the apartment — pipes ticking somewhere behind the wall, Mom's shower running down the hall, the traffic on Bergenline starting to wake up too. First day of freshman year. Fourteen years and exactly one day old now, which still felt strange to say — the number sat on me stiff and new, no fabric softener.
 
-My head felt weirdly clear, too. Not groggy at all, no need to fight through the usual post-sleep fog I normally get. Even my internal lexicon felt vastly expanded, as if a reservoir of articulate, sophisticated vocabulary had unlocked overnight, allowing a spontaneous stream of eloquence to arrive effortlessly, fully formed and waiting on the tip of my tongue. Just like that.. I will try and keep it low key through out this story so I won't lose you. 
+My head felt weirdly clear, too. Not groggy at all, no need to fight through the usual post-sleep fog I normally get. Even my internal lexicon felt vastly expanded — a whole reservoir of articulate, sophisticated vocabulary had unlocked overnight, a spontaneous stream of eloquence arriving effortlessly, fully formed and waiting on the tip of my tongue. Just like that.. I will try and keep it low key through out this story so I won't lose you. 
 
-Also, every little sound in the apartment seemed sharper than it should've been this early — I could actually pick out Mom humming something under the shower water, could hear the specific rattle of the radiator two rooms over, close and immediate, as if it sat right beside me. I didn't think much of it right then. I figured maybe I'd just slept good for once.
+Also, every little sound in the apartment seemed sharper than it should've been this early — I could actually pick out Mom humming something under the shower water, could hear the specific rattle of the radiator two rooms over, every tick of it, loud enough to count. I didn't think much of it right then. I figured maybe I'd just slept good for once.
 
 I reached over and grabbed the journal off my nightstand. The new one. Still had that stiff, unbroken spine, that smell paper gets before anybody's touched it — Danny's gift, my cousin, who always somehow finds the one thing I actually want instead of the thing everybody assumes a fourteen-year-old wants.
 
@@ -124,7 +124,7 @@ Dawn came back a few minutes later with the drinks, set them down, pulled her pa
 
 Dawn wrote it without looking up. "And for the ladies?"
 
-Mom and Rosie ordered — I wasn't really looking at either of them while they did it, watching instead an old man in another booth read an actual physical newspaper, dead serious about it, some relic out of 2005, he was sort of whispering reading..but I heard every word anyway, clear as if he was sitting right next to my ear instead of a few tables away. Then Mom said she had to use the bathroom right quick, and slid out of the booth.
+Mom and Rosie ordered — I wasn't really looking at either of them while they did it, watching instead an old man in another booth read an actual physical newspaper, dead serious about it, some relic out of 2005, he was sort of whispering reading..but I heard every word anyway from a few tables away — a Mets score, the price of gas in Secaucus, somebody's obituary. Then Mom said she had to use the bathroom right quick, and slid out of the booth.
 
 Across the diner, in the other dining room, Mom leaned into the bar counter and said something to Dawn, low, quick, meant for nobody but Dawn — I focused on them and was able to catch every syllable of it, easy as anything. *Can you put a candle in his plate when it comes out? It's his birthday, thank you.*
 
@@ -206,7 +206,7 @@ I didn't say anything — thought about *Mr. Meli* and *Dr. Casador* co-existing
 
 By eleven we were back at the apartment, and Mom wasted no time turning us into an errand crew. "Sazón, soda, chips, ice, cups, plates, napkins, ice cream," she said, folding five twenties into Rosie's hand. "A hundred, that should cover it. Write it down so you don't forget nothing. Fortieth Street bodega, not the one on Broadway. They never have anything."
 
-She pulled Rosie a few steps away toward the kitchen, low voice, clearly not meaning for me to hear it — except I did. All of it. Clean as if she'd been standing beside me instead of six feet away with a running faucet between us. 
+She pulled Rosie a few steps away toward the kitchen, low voice, clearly not meaning for me to hear it — except I did. All of it. Every word, from six feet away with a running faucet between us. 
 
 "Felix is picking up the cake from Dulce de Leche, don't let him talk you into stopping anywhere else, we don't got time." Ordinary. Nothing. But I stood there a second too long, a little thrown by the fact that I'd caught every word of something that wasn't supposed to reach me at all.
 
@@ -222,7 +222,7 @@ I scanned it for the yellow packet with the rooster on it.
 
 And my eyes did something.
 
-It wasn't squinting. It wasn't looking harder. The whole shelf just — narrowed. Everything at the edges went soft and far away all at once, and dead center, this thin bright line appeared, a crosshair, steady as anything, locked over a packet three rows back behind two cans of guandules, and the tiny print on it read as clean as if it sat six inches from my face instead of six feet. *Sazón con culantro y achiote.* I could see a tear in the corner of the packaging. A fingerprint smudge on the plastic that wasn't even mine.
+It wasn't squinting. It wasn't looking harder. The whole shelf just — narrowed. Everything at the edges went soft and far away all at once, and dead center, this thin bright line appeared, a crosshair, steady as anything, locked over a packet three rows back behind two cans of guandules, and the tiny print on it was sharp enough to read from six feet away. *Sazón con culantro y achiote.* I could see a tear in the corner of the packaging. A fingerprint smudge on the plastic that wasn't even mine.
 
 I gasped, out loud, actually out loud. Some old man two feet away looked at me sideways, fully convinced I'd lost it.
 
