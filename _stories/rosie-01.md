@@ -239,7 +239,7 @@ The vault room stood empty when she finally reached it. The vault itself sat exa
 
 She wedged the tip into the hairline where a lid should have met a base and leaned her whole weight behind it.
 
-The instant the metal touched the surface, the vault answered. Its oil-slick sheen strobed violently, once, twice, light without a source behind it, and something raced back down the screwdriver into her hand before she could let go. It didn't explode. It unmade. The tool and the arm holding it came apart together, atom by atom, no bond between them surviving the same half-second, and Rosie was screaming before she understood why, staring at a wrist that ended in nothing — a drifting, shimmering cloud of gray ash where a hand had been a moment ago. The vault itself sat untouched, already calm again, as if nothing had happened to it at all.
+The instant the metal touched the surface, the vault answered. Its oil-slick sheen strobed violently, once, twice, light without a source behind it, and something raced back down the screwdriver into her hand before she could let go. It didn't explode. It unmade. The tool and the arm holding it came apart together, atom by atom, no bond between them surviving the same half-second, and Rosie was screaming before she understood why, staring at a wrist that ended in nothing — a drifting, shimmering cloud of gray ash where a hand had been a moment ago. The vault itself sat untouched, already calm again, its sheen gone smooth and still.
 
 That was when Baron walked in.
 
@@ -253,7 +253,7 @@ He didn't touch the vault itself. He adjusted something small clipped to his wri
 
 "You fools are treating a multidimensional lock as though it were some steel bank box," he said, and his voice carried something under the words that wasn't quite a growl and wasn't quite anything human either — a low vibration she felt in her sternum before she heard it as sound.
 
-Rosie looked down at what was left of her arm, and a part of her — the part that had learned, visit after visit, exactly how much of this place answered to her and no one else — simply decided the ash wasn't the end of the story. "there is no spoon" she thought to herself.  She willed the hand back. It came, flesh and bone reassembling out of the drifting cloud, whole again, hers again — as if it had never left at all.
+Rosie looked down at what was left of her arm, and a part of her — the part that had learned, visit after visit, exactly how much of this place answered to her and no one else — simply decided the ash wasn't the end of the story. "there is no spoon" she thought to herself.  She willed the hand back. It came, flesh and bone reassembling out of the drifting cloud, whole again, hers again, every finger answering when she flexed it.
 
 Baron went still in a different way this time. "How is that possible," he said, no question mark left in his voice at all.
 
