@@ -408,7 +408,7 @@ Behind the last door in the hallway, a man in a white coat was calmly gathering 
 
 "You're early," he said.
 
-She recognized him and she didn't. He wore a different face than the one that had knelt in her living room at four years old, and a different one than the golden-maned thing she'd caged in a mountain castle at fourteen, but the cadence came through both of them unchanged — pleasant, unhurried, a man conducting a conversation he believed he was already winning.
+She recognized him and she didn't. He wore a different face than the one that had knelt in her living room at four years old, and a different one than the golden-maned thing she'd caged at fourteen, but the cadence came through both of them unchanged — pleasant, unhurried, a man conducting a conversation he believed he was already winning.
 
 "You know why I'm here," Rosie said.
 
@@ -486,7 +486,7 @@ She was back on the edge of her bed 1 second after she'd left it, homework still
 
 Deep within the neon-lit maze of the city’s upper district, the high-voltage lab at Vanguard Advanced Energy hummed with its usual late-night static. On Sector 4’s primary assembly bench, a matte-black, six-inch prototype battery cylinder simply ceased to exist. There was no spark, no spatial tear, and no alarms tripped on the security grid; one second its heavy lithium-core signature registered on the local telemetry, and the next, the cradle was empty. 
 
-The two researchers on shift remained completely oblivious, their eyes locked onto a cascading wall of thermal diagnostics just three feet away. It wouldn't be until the morning inventory sweep, hours later, that anyone would realize the foundational component of their next-generation power grid had quietly slipped into the ether.
+The two researchers on shift remained completely oblivious, their eyes locked onto a cascading wall of thermal diagnostics just three feet away.
 
 ---
 
@@ -514,13 +514,105 @@ She sketched the rest herself, across three separate visits, adjusting it a litt
 
 "He'll need to," Rosie said, which was true, and answered nothing.
 
-She never told him what sat welded at the center of the finished piece, sealed now where no eye and no scale would ever find it again — the same cylinder that had cost a man his composure, and some jeweler clear across town, one she'd never once set foot in, one quiet ring off a velvet tray, though only one of those facts Rosie actually knew about.
+She never told him what sat welded at the center of the finished piece, sealed now where no eye and no scale would ever find it again — the same cylinder that had cost a man his composure, and a lab across the city she'd never once set foot in, one prototype cylinder off a bench, though only one of those facts Rosie actually knew about.
 
-The card took longer than the bracelet had. Four drafts, sitting at her desk with the finished piece already boxed beside her, turning the rose key slowly under the lamp while she tried to find room in a birthday card for everything she meant and none of what she couldn't say.
+The card took longer than the bracelet had. Three drafts, sitting at her desk with the finished piece already boxed beside her, turning the rose key slowly under the lamp while she tried to find room in a birthday card for everything she meant and none of what she couldn't say. None of the three came close.
+
+On Saturday she went to check on Larry.
+
+The Beacon Diner ran loud on weekends: plates stacking behind the counter, the coffee machine hissing, a baby by the register working up to a scream. Their booth by the window, the vinyl split in its usual three places. Roman sat across from her pushing home fries around his plate, half listening while she complained about her college essays. Rutgers wanted five hundred words on a challenge she had overcome.
+
+She couldn't exactly write about a wolf in a cellar.
+
+"—and the prompt's so vague," she was saying, fork up, a bite of egg on it, "that whatever I put down is gonna sound—"
+
+She'd been holding the cabin in her head since the toast came. The low front door with the iron latch. The floorboard by the stove that dipped when you stepped on it. Molly's bitter tea, steeping too long, always. The trapdoor she had ordered reinforced four hours ago — four hours on that side, four years on this one. She'd started the fractal count with the toast, nine seconds of it under her own talking, and nobody at the table could have seen it. Her eyes landed on the napkin dispenser and stayed there. She held all of it whole, and pushed.
+
+The booth slid out from under her.
+
+She came out of it on Molly's front step, in the gloves and the leather boots she'd worn out of this cabin four years ago, and she'd shaped the rest of herself on the way over, on purpose. Three inches shorter. Rounder in the face. The braids she'd worn at fourteen. To Molly, a girl had walked out of this cabin a few hours ago, and a grown woman walking back in would raise questions Rosie had no time to answer. So the girl came back. Behind the girl's face it was all still eighteen: her head, her mouth, her grip.
+
+Two of the wolf soldiers flanked the door in their matte-black armor. They bowed their heads as she passed.
+
+Rosie stood in the open doorway. Inside, a kitchen chair stood squarely on the trapdoor, empty. Larry was across the room on his knees at the hearth, sweeping ash into a pan with the broom he had taken out of Claire's hands. Claire stood over him.
+
+"You missed some," she told him.
+
+"Yes, Miss Claire." He swept it up.
+
+She pointed at the water bucket by the hearth. He fetched it, set it beside her, and went back to the ash. He used the arm Rosie had rebuilt earlier that day for all of it, opening and closing that hand between chores, still getting used to it.
+
+Then he saw her, and he was on his feet.
+
+"Mistress."
+
+He went to one knee. She put her hand on his head. He bowed under it and held still.
+
+"Report."
+
+"He hasn't eaten. He hasn't slept." Larry's eyes went to the trapdoor and came back. "He has talked a great deal."
+
+Molly stood at the stove with her back to them, watching a kettle Larry had filled and set to boil for her, and didn't turn around. Claire had wandered back to the hearth to inspect his sweeping. Larry took two steps sideways, eyes still on Rosie, so that he stood between Claire and the trapdoor.
+
+"He talks about her," he said quietly, "when he thinks the old woman can't hear him." His jaw worked. "I was the one he sent for her. I remember the path. She hasn't lifted a thing since you left. I won't let her."
+
+Under the floorboards, a chain dragged across stone. A voice came up through the wood, low, with the roar under it. "Is that the child? Tell her I'm hungry."
+
+Larry brought his heel down on the trapdoor once. The chain went quiet.
+
+"Did you claim the vault, Mistress?"
+
+She glanced at the trapdoor, crossed to the window at the far end of the room, and waited for him to follow before she answered, low. "Not the vault. I found the key. Someone with the right credentials is going to carry it."
+
+Larry went very still, head cocked toward her.
+
+"Then Baron told me the truth," he said. "You gave me leave to enforce by any means. I used some of them." He didn't say which, and she didn't ask. "I served him eleven years and never got past his gate. Today he told me what I never saw — eleven years of him standing over that vault with that thing on his wrist, and it never once opened for him. It never would have. It wanted someone younger. Someone whose blood he couldn't touch."
+
+He looked at her for a long moment. He didn't ask who.
+
+"You've chosen them," he said. "That's enough for me."
+
+Then he dropped the Mistress. He met her eyes and spoke slower, quieter, in his own voice and not a servant's.
+
+"If I could tell them one thing, it would be this. This key symbolizes that the power is in your hands. That only you hold the key that will open the realm that you've always wanted to enter."
+
+Rosie said nothing. The eighteen-year-old behind the braids heard every word and knew exactly what it was: the card. The one she'd failed to write three times at her desk. On the outside, the fourteen-year-old only nodded, and her hand found the top of his head again.
+
+"Good boy," she said. "Keep the chair where it is, and feed him."
+
+"Yes, Mistress."
+
+Before she left, she took Molly and Claire out to the back room and shut the door.
+
+"How are you two doing? Really."
+
+Molly dried her hands on her apron. "I slept two hours with my own brother chained under the floor," she said. "Better than I've slept in years." She glanced at the door, toward the front room. "The wolf won't let either of us carry so much as a kettle."
+
+"He calls me Miss Claire," Claire said, delighted and a little suspicious about it. "He does whatever I say."
+
+"Good," Rosie said. "Let him."
+
+She hugged them both, the fourteen-year-old's arms around Molly's narrow back, and went out the front door past the bowing guards. She walked the path to the tree line and kept going, into the woods, until the cabin and the wolves at its door were gone behind the trunks. Nobody here needed to watch a girl blink out between two pines.
+
+Alone, she said the words over to herself, twice, under her breath. Then she built the booth back up in her head — the split vinyl, the ketchup bottle with the crusted cap, Roman's fork scraping his plate — and pushed.
+
+One second had passed at the Beacon Diner. The egg was still on her fork. Roman was still looking at his fries.
+
+She didn't move. She let herself have it again: the cabin, the chair, the chain going quiet under Larry's heel, his voice dropping the Mistress. She had stepped out of a Saturday breakfast into another world and back. Her face went hot. Her knee bounced under the table. *Before he even swallowed. Holy shit.* She sat inside it for eight more seconds, eyes on the napkin dispenser. Across the table, Roman looked up from his fries and kept looking.
+
+Then she blinked, and grinned at nothing, and turned in the booth.
+
+"Dawn? Can I borrow a pen?"
+
+Dawn pulled one off her apron without breaking stride. Rosie flipped the receipt over and wrote fast, small, both sentences, word for word in Larry's order, and folded it into her pocket before Roman could lean across and look.
+
+Then he went back to his fries. He didn't ask.
+
+Two nights later, she copied from the receipt onto the card, and the fourth draft came out in one sitting.
 
 *This key symbolizes that the power is in your hands. That only you hold the key that will open the realm that you've always wanted to enter. You are in control. It's your destiny. Believe in yourself. Trust your instincts. Good luck tomorrow, I'll be there for you if you need me. Happy Birthday Romy! Love you! — RoRo!*
 
-She read it back twice, decided it was as close as she'd get, and sealed the envelope before a fifth draft could talk her out of the first four.
+She read it back twice. The words were right. But their origin would have to remain a mystery. She licked the envelope shut before a fifth draft could talk her out of it.
 
 Whatever was sealed inside that band, she'd built it to protect him. Standing there with the box already sealed, she wasn't entirely sure that was true.
 
