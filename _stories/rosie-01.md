@@ -384,6 +384,8 @@ Her brother had been sick in ways no textbook could name since before he could e
 
 Someone had done that to him. Someone had reached inside his small body and written something cruel and new, and whoever they were, they had left Roman carrying the only key in the universe to a prize sitting on a pedestal in another world.
 
+Baron had sworn the box carried the answer to life and death. For four years she had only heard the death in it. Now, watching Roman press two fingers to his temple between spoonfuls, she heard the rest: if someone had written something cruel into him, then maybe the one thing in any world that opened for him could write it out again.
+
 Rosie had gone entirely still at the kitchen table that morning. Then, she had finished her coffee, kissed her mother goodbye, and started planning.
 
 ---
