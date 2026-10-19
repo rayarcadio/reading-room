@@ -109,7 +109,7 @@ We had him cleaned up and parked in front of the TV, ice pressed to his mouth, b
 
 It was maybe four days after that when I noticed the doorknob.
 
-My bedroom door sticks — always has, you have to shoulder it on the way out or the latch catches wrong. I did it without thinking, same as every morning, and the whole knob came off in my hand — clean, complete, coming away with no resistance at all — as if it had never been screwed in to begin with. I stood there at seven in the morning holding a doorknob, feeling idiotic, certain I'd broken something, already rehearsing an apology to Mom about the door.
+My bedroom door sticks — always has, you have to shoulder it on the way out or the latch catches wrong. I did it without thinking, same as every morning, and the whole knob came off in my hand — clean, complete, no resistance at all, both screws still threaded through the plate in my palm. I stood there at seven in the morning holding a doorknob, feeling idiotic, certain I'd broken something, already rehearsing an apology to Mom about the door.
 
 That same week at school, Marcus Aiello bet me I couldn't open his water bottle, the extra-tight kind his dad brings home from work. I did it one-handed without really trying, and something crossed his face — a small recalculation, the look of a boy revising what he thought he knew. I laughed it off, blamed his grip. But I remember flexing my hand under the desk afterward, privately, checking it for something I couldn't have named if you'd asked me.
 
