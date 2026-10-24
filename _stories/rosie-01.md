@@ -376,7 +376,7 @@ Rosie never pressed her mother too hard. Not at first, and never in a way that r
 
 By sixteen, Rosie had stopped believing Roman’s headaches were just headaches. By seventeen, she began testing the boundaries of her gift, wondering if a slip had to be a place her mind merely conjured, or if she could aim it like a flashlight beam at the tangible world. She tried the local grocery store she’d walked a hundred times. She tried her old elementary school. She chose places she knew by heart—holding the geometry of the walls, the swing of the doors, and the distinct, dusty smell of the hallways entire in her mind—and then pushed forward, breathing, until the version of that place sitting one thin dimension over answered the call. 
 
-It worked. It kept working. Ferrer’s building was only the fourth place she had ever targeted—a drab office complex she had sat in exactly once as a child, swinging her bored legs while her mother filled out intake forms at a clipboard. She had barely glanced at the linoleum then. She had looked at nothing else since. The revelation she had been carrying for the past month went with her tonight—the final, heavy piece that turned three years of aimless practice into a reason to pull the trigger. 
+It worked. It kept working. Ferrer’s building was only the fourth place she had ever targeted—a drab office complex she had sat in exactly once as a child, swinging her bored legs while her mother filled out intake forms at a clipboard. She had barely glanced at the linoleum then. She had looked at nothing else since. The revelation she had been carrying for the past month went with her tonight—the final, heavy piece that turned four years of aimless practice into a reason to pull the trigger. 
 
 She had worked the math out in the most mundane of places: sitting at her own kitchen table, watching Roman shovel cereal into his mouth while complaining about a migraine that had dogged him since Tuesday. An untouched bloodline. A genome rewritten down to the very last strand. Baron had handed her that terrible truth in a caged room four years ago, and she had carried it ever since, turning it over and over in her memory's museum, yet never once holding it up against the boy who sat three feet away from her every morning of her life. 
 
@@ -623,6 +623,259 @@ She wrapped it that night and set it among the rest of the pile the next evening
 ---
 
 ## Scene 8 — Age 18: The Cafeteria
+
+Rosie was out of the bathroom by six-forty, which on a first day counted as a miracle. She heard Roman's door open behind her the second hers shut, heard him shuffle down the hall and lock himself in, and she stood in her room with her hair half done and listened to the water run.
+
+He'd taken the bracelet off before bed. She'd checked at eleven, a crack in his door, the hall light falling across the wrist flung over the edge of the mattress: bare. The box sat open on the nightstand, the rose inside it.
+
+Erik had called at eleven-thirty.
+
+She'd taken it on the fire escape with the window pulled down behind her, and for the first ten minutes he'd been Erik: tired from closing the store, asking about the party, laughing at the part where Tío Felix walked the cake down the hall with his elbows locked. Then he'd gone quiet. Erik never went quiet on the phone. He filled every silence she left him, which was half of why she left them.
+
+"I want to do this for real," he'd said. "Meet your mom. Stop parking around the corner. I'm thirty-two, Ro. I'm not doing the corner forever."
+
+She'd started to answer, and he'd said the rest before she could.
+
+"And I know about her."
+
+He wouldn't say how. He didn't yell. He just said it, the girl, the girlfriend, the word *bisexual* landing careful in his mouth — he'd practiced it in the car, she could hear that — and waited for her to tell him he was wrong.
+
+She hadn't. She'd said, "Not on the phone," in the voice that usually ended things, and he'd said okay, and the call had ended with neither of them saying goodnight.
+
+Her phone buzzed on the dresser. Not Erik.
+
+**Vic:** *first day as a junior and i already changed my outfit 3 times*
+**Vic:** *is that pathetic*
+**Rosie:** *extremely*
+**Rosie:** *wear the green one*
+**Vic:** *HOW did you know i had it on*
+**Rosie:** *I know everything*
+**Vic:** *i get to see you every day again*
+**Vic:** *but like. pretend i don't exist right*
+**Rosie:** *I'll wink at you once. Don't faint.*
+**Vic:** *no promises*
+
+Rosie looked at the screen longer than she needed to. Vic had no idea Erik existed. Erik knew about Vic. She stood between the two of them holding every piece of it, which was how she liked things. Since the fire escape, it sat on her chest. There was no one to hand any of it to.
+
+She finished her hair. She got dressed. She did not go check on the bracelet again.
+
+"Let's go, kids, now now now!" Mom's voice came down the hall, half singing it. *Just say get in the car, Ma.*
+
+Rosie got to Roman's doorway with her backpack over one shoulder before he had his shoes on. He was dressed — the dark jeans, the Basquiat t-shirt Mom had picked, the Jordans out of the box — and he looked pale and distracted under all of it. She gave him the once-over she always gave him, head to feet, and her eyes went where they'd been going all morning. His left wrist. The band. The little rose sitting in its socket, closed. 
+
+She breathed out.
+
+Then she noticed the rest of him. Out in the kitchen Mom's keys hit the counter, and Roman's head had already turned toward the kitchen, toward Mom digging them out of her bag, which Rosie hadn't heard at all. He wasn't fidgeting. Roman fidgeted through everything — dentist chairs, Mass, his own birthday — and this morning he stood still, both feet planted, his eyes fixed on a corner of the ceiling with nothing in it. Freshmen got nervous. They didn't get *focused*. He looked less scared than listening, a boy waiting on a sound.
+
+*Whatever they wrote into him — is it waking up?*
+
+She didn't let herself finish the question. She'd seen things in slips she never asked for, and she'd gotten good at not adding them up.
+
+"Let's do this," she said, and held her fist out.
+
+He bumped it.
+
+---
+
+She took the front seat. Mom drove with one hand on the wheel and her eyes going back and forth between the road and the rearview, and Rosie watched her do it four times before they hit Bergenline.
+
+"You're quiet back there," Mom said.
+
+"I'm good."
+
+Rosie twisted around to look at him properly. He was turned to the window, but his eyes weren't on Bergenline. They jumped — a pigeon on a wire, a man two blocks up stepping off a curb, a bus she couldn't hear yet, until it turned the corner. "Freshman year," she said. "I remember my first day. I threw up before we even left the house, no lie. Actual vomit."
+
+"That's disgusting."
+
+"That's real. And then by lunch I already had, like, three friends. It's not that deep, Romy. Everybody's new. Everybody's scared. Nobody's watching you as hard as you think they are."
+
+It was true, every word of it. She had thrown up. She'd had three friends by lunch. She left out the part where none of it had been the worst thing she'd seen that year.
+
+"She's right," Mom said. "First day's the worst part. After that it's just school."
+
+"Honestly," Roman said, "I don't even wanna go. Can we just turn around."
+
+Rosie snorted and turned back to face front. "Oh my God, everybody says that. You'll be fine, drama king."
+
+Mom didn't laugh. Her eyes went to the rearview and stayed there. "Why wouldn't you want to go? Is it your head? You feeling okay?"
+
+Rosie felt it before she thought it: *his head.* A question about his head was one phone call away from an appointment, and an appointment was one phone call away from a man with a clipboard who'd been taking notes on her brother since before he could walk.
+
+"Ma, he's joking," she said, fast, and started the count while she said it, eyes on the side of Mom's face. Nobody in the car could see it. She held the office whole in her head — the long white hallway, the numbered doors, the floor waxed to a shine — and pushed.
+
+---
+
+She'd left this office a month ago, or an hour ago, depending on whose clock you asked.
+
+The leather chair was upright again. The papers she'd scattered were stacked in three neat piles on the desk, and Ferrer was on one knee by the window in his shirtsleeves, picking pieces of a cracked monitor out of the carpet and dropping them into a wastebasket one at a time. His wrists still had the marks from the chains. His security detail was gone.
+
+He didn't startle. He finished with the piece in his hand, set it in the basket, and stood.
+
+"Back so soon?" His voice was smooth and even. His eyes weren't.
+
+Rosie took his chair. She spun it to face him, sank into the leather, crossed her ankles, and set her boot heels on the corner of his mahogany desk, right on top of his three neat piles.
+
+"Sit on the floor," she said.
+
+He looked at the boot. Then he sat on the floor, his back against the filing cabinet, his knees up, and the small smile she remembered from a month ago came back into his face. He didn't seem to mind the floor at all. She'd learned that about him last time. Pain didn't move him. Being told what to do did, and not in the direction it moved most men.
+
+"You don't need the boot today," he said. "I know what it does. I'd rather keep my dignity and talk."
+
+"You don't have any dignity." She swung her legs off the desk and walked to him. She took a fistful of his hair in her left hand, pulled his face up to hers, and slapped him, palm then backhand, half a dozen times, clean and sharp. He kept his eyes on her the whole time. He looked happy.
+
+"Talk anyway." She went back to the chair, sat, and looked down at him. "Last time you said hand it to a pure blood. *Preferably young.* Why young?"
+
+He considered her for a while. She let him, and looked around at the mess. She had twenty minutes here and one second in the car.
+
+"Because a child's body is still deciding what it is," he said. "There's a subject. Not mine — I helped design the lock. Years ago, somebody upstairs injected a man. A soldier. Something meant to rebuild limbs destroyed by bombs. It took. And when the man had children, it seems to have passed on." He spread his hands, the marks on his wrists showing. "*Seems.* Possibly. Nobody tells me the whole of anything."
+
+"Who's the soldier?"
+
+"I've never been given a name."
+
+"Who are the kids? Where are they from?"
+
+"Never been given that either." The smile thinned. "You think I'm in charge of something. I'm a pair of hands. There's a board, and people above me move pieces across it, and I'm one of the pieces." He looked at the papers she'd scuffed. "So are you, probably. You just don't like hearing it."
+
+Rosie said nothing.
+
+A soldier. An injection meant to rebuild what the war had taken. Kids born after.
+
+Her father had been a Marine. Mom had talked, the times Rosie had asked, about Joseph's old program, the specialists, the coverage that never ran out. She had never once said what the program was for.
+
+It could be anyone's father. He'd said it himself — nobody told him the whole of anything. Rosie sat in his chair and ran it again, and every way she ran it, it came back to a kitchen table and a boy shoveling cereal and rubbing his temple, and she could not prove a single piece of it.
+
+"That's all you've got," she said.
+
+"That's all I've got." He tilted his head up at her. "Has he started yet?"
+
+She thought of Roman in the doorway, turned toward a sound before anyone else heard it.
+
+She stood and walked out of his office without answering. In the hallway she held the car whole in her head — the vinyl seat, the air freshener, Mom's hand on the wheel — and pushed.
+
+---
+
+One second. Mom was still looking at the rearview.
+
+"I'm just asking," Mom said.
+
+"I'm fine," Roman said. "I was kidding."
+
+Mom said "okay" and turned back toward the road. Rosie watched the side of her face for the rest of Bergenline. It didn't loosen. Neither did Rosie.
+
+---
+
+The sidewalk outside North Bergen High School was already packed, kids in first-day fits, backpacks still stiff and clean. Rosie leaned across the console and kissed Mom's cheek. "Love you. Thanks for the ride."
+
+"Love you too. Have a good first day, seniors get treated different, you know that."
+
+Rosie got out and waited on the curb while Roman went around for his kiss. Mom held his face in both hands for a long second. Rosie looked at the crowd instead. It was Roman's first day of high school and she was supposed to be thinking about that, but she was looking for dark hair and a green top. She wanted to see Vic. She wanted, stupidly, to hold her hand in front of all of them.
+
+Then she looked back at her brother and forgot about the green top. He was standing too still again.
+
+Roman headed to the entrance and Rosie caught up to him before he'd made it more than a few steps and took his arm to slow him down. "Hey." She waited until he actually looked at her. "If you need me today — whatever, any reason, doesn't have to be a big deal — you text me or you call me. Okay?"
+
+She already had her phone out. She sent him the screenshot of her schedule before he could say anything, and heard his pocket buzz.
+
+"That's my whole day, period by period. If you got a free period or a study hall or whatever, come find me. Or just text and I'll say I gotta use the bathroom and I'll come to you. Whatever it takes. I don't care." She bumped his shoulder, softer than she meant to. Vic could handle herself. Roman was the one with his eyes on nothing. "Just know I'm here. Okay?" She tugged his arm.
+
+Up ahead, Daniela and Kayla were waving her over from the steps, half the group chat behind them. Rosie let go of his arm. He was fourteen and it was the first day, and the worst thing she could do to him in front of four hundred freshmen was stand there holding on.
+
+"Love ya, bye!" she called back, and jogged off, and didn't look back at him, on purpose.
+
+She didn't look back at the car either.
+
+Halfway up the steps she found Vic instead — by the railing in the green top, a sketchbook hugged flat to her chest, trying hard to look at nobody. Their eyes met. Rosie smiled and winked, once. Vic's whole face lit up, and then she ducked her head and turned toward the doors so fast her braid swung.
+
+Rosie let Daniela take her arm and tell her about somebody's summer.
+
+She texted under the noise.
+
+**Rosie:** *where r u*
+**Erik:** *around the corner. brought you coffee*
+
+**Rosie:** *where did u go*
+**Vic:** *kayed's room. it's empty*
+
+---
+
+Erik's car was on the side street behind the school, engine running, out of sight of the steps, a Sneaker Hub lanyard on the dash for the store he still had to open. He leaned across and pushed the passenger door open, and she didn't get in. She stood in the open door and took the iced coffee out of his hand.
+
+His eyes were red at the rims. There was a second coffee in the cup holder, half gone.
+
+"Hey," he said.
+
+"Hey."
+
+"About last night—"
+
+"Not here." She took a long pull of the coffee. Iced, caramel and cream. He always remembered. "Tonight. I'll call you."
+
+He opened his mouth, and closed it, and nodded. "Okay."
+
+Erik always said okay. It was the first thing she'd ever liked about him, in a sneaker store on Bergenline, a grown man getting flustered because a seventeen-year-old told him exactly which pair she wanted, which size and not to bring out the wrong ones. It was the thing she liked least about him this morning.
+
+She leaned in, kissed his cheek, and shut the door. When she looked back from the corner he was still parked there, both hands on the wheel.
+
+---
+
+Mr. Kayed's room was dark, the computers asleep, the chairs still up on half the desks. Vic was in her old seat by the window, sketchbook open, drawing nothing.
+
+Rosie walked in and set the iced coffee on the corner of the desk, the ice rattling. Vic's eyes went to it. The orange-and-pink Dunkin' sticker had the order printed in black: ERIK ICED CRML CREAM. Vic swallowed. She looked back down at her sketchbook and didn't ask.
+
+Rosie looked at the label too. Her stomach dropped, and she kept her shoulders where they were. Then the corner of her mouth wanted to go up, and she let it. Vic wasn't going to ask. Rosie had watched her decide not to.
+
+"You winked," Vic said, without looking up. "In front of people."
+
+"Nobody saw."
+
+"I saw." Vic looked up. She was pink to the ears. "I almost fell down the steps."
+
+Rosie sat on the desk beside her, the one that had been hers last year, and took the pencil out of Vic's hand and set it down. Neither of them said anything. Vic's fingers found hers under the edge of the desk and held on.
+
+Rosie sat there holding her hand and counted what she was carrying. Erik around the corner. Vic beside her, not asking. Ferrer on his office floor. Baron and Larry, a world away. Roman. It was a lot of people to keep from running into each other. Vic's thumb moved over her knuckles, and for a minute it got lighter.
+
+Rosie leaned in. Vic's breath caught and she started to pull back, eyes wide. Rosie took her chin, gently, and kissed her, quick and soft.
+
+When Rosie pulled away, Vic was red to the collar. She looked back down at her sketchbook and pretended to draw.
+
+Before the bell, the door swung open and Mr. Kayed walked in. He went straight for the wall switch, and the fluorescents came on over everything. He hadn't seen. He looked from one of them to the other, and a surprised smile spread across his face: two of his old students, back in their old seats.
+
+Rosie slid off the desk and picked up her coffee. "Good morning, Mr. Kayed."
+
+"Good morning," Vic said behind her, packing up her sketchbook.
+
+---
+
+First period AP Precalculus. Second period Study Hall. Homeroom. Then third period Crafts, lots of syllabus handouts and teachers learning names, and Rosie answered to hers each time and wrote nothing down.
+
+Fourth period, AP English, was on the second floor, a room with windows down one side and a teacher who kept them open. Kids took seats wherever, next to friends or as far back as they could get. Rosie took the first seat in the last row, right by the glass.
+
+The teacher watched the scramble and said, "Don't get comfy in your chairs, I will be seating you in alphabetical order!" The room groaned.
+
+It took the teacher fifteen minutes to get settled, log in to RealTime, and start on the roster. Rosie spent them texting Vic about the kiss. Erik was texting her too, about this morning. She left him on delivered.
+
+The teacher got to the C's. "Rosalie Casador."
+
+"Rosie," Rosie said.
+
+The teacher pointed to the fourth seat in row one, by the door, across the room from the windows. Rosie moved.
+
+She looked across the room at the windows she'd just left. Her breathing changed on its own, dropping into the fractal count she had spent four years learning to summon. The air in the classroom went thin. For one heartbeat the sky over the parking lot had green under it, a deep emerald bleeding up under the blue.
+
+Rosie broke the count. She held her breath until the sky went back to plain blue over the parked cars.
+
+Nerves, she told herself. First day. She picked her phone back up and answered Vic.
+
+---
+
+Fifth period was History, room 303, third floor. Fifth period was also Yesenia's lunch, and Rosie skipped the stairs and went down to the cafeteria instead, same as last year. She'd write herself a pass.
+
+On the way she turned Erik over. *Meet your mom.* What he was really asking, and what he'd do if she said no. Under that was Roman, standing too still in his doorway, and she still didn't know why.
+
+*I kissed her,* she thought. *In school. Before homeroom.* She hadn't waited for Vic to work up the nerve.
+
+---
 
 10:45. Fifth period had started a minute ago, and the cafeteria was filling up.
 
