@@ -65,13 +65,13 @@ Also, every little sound in the apartment seemed sharper than it should've been 
 
 I reached over and grabbed the journal off my nightstand. The new one. Still had that stiff, unbroken spine, that smell paper gets before anybody's touched it — Danny's gift, my cousin, who always somehow finds the one thing I actually want instead of the thing everybody assumes a fourteen-year-old wants.
 
-I flipped past the first three pages I'd already filled — a subway rat wearing a crown, half a mural idea I'd seen in my head after passing some brick wall on Kennedy, Rosie's profile from memory, the one where she's laughing at something off-page — and found a blank one. Started sketching, automatically. That's usually how it goes. My hand just starts moving before my brain agrees.
+I flipped past the first four pages I'd already filled — a subway rat wearing a crown, half a mural idea I'd seen in my head after passing some brick wall on Kennedy, Rosie's profile from memory, the one where she's laughing at something off-page, and a guy I'd been working on since summer, no name yet, different powers every time I drew him. His origin I kept erasing: alien, or something the government put in him, and I couldn't decide which one was cooler. I found a blank page. Started sketching, automatically. That's usually how it goes. My hand just starts moving before my brain agrees.
 
-I was drawing my own hand, actually. Just resting flat against the sheet, fingers spread, shading in the knuckle shadows, using Ms. Rivera's old method from eighth grade — thumb pressure light, letting the graphite do the work instead of muscling it in. She was the first person who ever told me I was actually good at this, not just "good for a kid." I still think about that sometimes, way more than I probably should.
+I was drawing my own hand, actually. Just resting flat against the sheet, fingers spread, shading in the knuckle shadows, using Ms. Rivera's old method from eighth grade — thumb pressure light, letting the graphite do the work instead of muscling it in. She was the first person who ever told me I was actually good at this, not just "good for a kid."
 
 And I stopped.
 
-Because I was looking at my own fingers. Really looking, because I'd found out they weren't what I'd thought they were.
+Because I was looking at my own fingers. Really looking.
 
 Yesterday those fingers turned into gun metal in front of a TV screen. I watched it happen. Felt it happen — a cold, tight pulling sensation, my bones seeming to know something, something in them reacting with the permission it had been waiting on.
 
@@ -184,6 +184,8 @@ That's just how I am, I guess. Slow to jump anywhere. Careful, my mom calls it �
 
 I didn't say anything — thought about *Mr. Meli* and *Dr. Casador* co-existing.
 
+Neither of them had said comics. That was the one I actually wanted, the one I'd never told anybody: my name on a cover, a whole world where I got to decide who got powers, and why, and what it cost them. I didn't say it then either.
+
 
 ## IV. Day one: Roman's Room — before school
 
@@ -271,7 +273,7 @@ I stood up a little straighter, looked around and micro smiled to myself. Helpin
 
 *"USING THE BATHROOM!!" she yelled through my door, not asking, announcing, already past it by the time the last word landed.*
 
-*I let out a breath. Lost that race again, same as basically every morning of my life. Didn't really mind it though — I wasn't in a rush, wasn't even really thinking about the bathroom until she brought it up, too deep into the journal and into yesterday to care much either way.*
+*I let out a breath. Lost that race again. I lose it basically every morning. Didn't really mind it though — I wasn't in a rush, wasn't even really thinking about the bathroom until she brought it up, too deep into the journal and into yesterday to care much either way.*
 
 *What I did notice was how awake I already was. Fully awake, no fog, I'm usually dragging myself up out of bed on a school morning, needing like twenty more minutes, before I felt human again. Today I'd been sharp since the second my eyes opened, like what the actual fuck.*
 
@@ -301,7 +303,7 @@ Where was she? He pulled her schedule back up anyway, tapped on it and zoomed in
 
 ## VIII. Day one: Roman's Room — before school
 
-*["Why am I feeling like this," I said out loud, staring at the ceiling. I hadn't drank anything weird. Wasn't bit by a radioactive spider or whatever. Seriously, what the hell?*
+*["Why am I feeling like this," I said out loud, staring at the ceiling. I hadn't drank anything weird. Wasn't bit by a radioactive spider or whatever. I know how origin stories go. I've read a hundred of them: the bite, the lab accident, the lightning, the dead parent. Something happens to you, and you can point at it. I couldn't point at anything. Seriously, what the hell?*
 
 *And then there was the finger thing. Just thinking about it twisted my stomach. Andrew didn't notice, too deep in the game to notice his own hands most days. But Jude. Jude I wasn't so sure about. He'd gone quiet afterwards, quieter even for him, and he hadn't really looked at me right the rest of the night. Could've been nothing. Probably was nothing.*
 
