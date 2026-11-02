@@ -5,21 +5,29 @@ chapter: 1
 permalink: /read/rosie/1/
 ---
 
+> *Some things are in our control and others not.*
+>
+> — Epictetus, *Enchiridion* (trans. Elizabeth Carter)
+
+---
+
 ## Scene 1 — Age ~4: The Visit
 
 The doorbell rang at three in the afternoon, and nothing about that hour was ordinary.
 
+October had come in gray. The radiator under the window had started knocking a week early, and the apartment smelled of the sofrito going on the back burner — onion and green pepper, garlic going soft — over the sharper bite of Pine-Sol on the kitchen tile. Sol Maria had been cleaning since seven that morning. The blinds were half drawn, and the low light came through in thin bars across the rug. On the shelf, between the Virgen de la Caridad and the good glasses kept for company, sat the photograph. The TV was on low for Rosie, cartoons playing to an empty couch, and under them the refrigerator hummed.
+
 Rosie sat cross-legged on the living room rug, a fistful of Bratz dolls arranged in a loose half-circle around her — an audience. In her other hand, a doll with glitter-streaked hair pressed one sharp plastic boot into the chest of a Ken doll flat on his back, grinding it down against the carpet. The Bratz in the audience didn't move. They just watched, propped up on their hard little hips, waiting to see what happened to Ken.
 
-The bell had two notes, the second one flat — showing it's age. It was the hour that didn't fit. Nobody came at three o'clock. The mailman left packages leaning against the door and moved on. Titi Carmen let herself in shouting before anyone could answer. This visitor knocked once, and waited.
+The bell had two notes, the second one flat — showing its age. Nobody came at three o'clock. The mailman left packages leaning against the door and moved on. Titi Carmen let herself in shouting before anyone could answer. This visitor rang once, and waited.
 
-Sol Maria answered with her hair still wet from the shower. She'd been expecting this — the man had called twice already, careful and apologetic, asking for fifteen minutes to discuss the program Joseph had been enrolled in before he shipped out. She'd said yes both times. Standing in the doorway now, towel-damp hair dripping onto her shoulder, she watched Dr. Marcus Ferrer smile at her from the hallway and felt the small, familiar discomfort of a decision she'd already made and couldn't quite look at directly.
+Sol Maria answered with her hair still wet from the shower. She'd been expecting this — the man had called twice since the afternoon she signed, careful and apologetic, asking for fifteen minutes to meet the little one. She'd said yes both times. Standing in the doorway now, towel-damp hair dripping onto her shoulder, she watched Dr. Marcus Ferrer smile at her from the hallway.
 
 "Mrs. Casador. Forgive the intrusion — I did call ahead."
 
 "You did," she said, her voice smooth, giving nothing away. "Please, come in."
 
-He wore a coat, though the day was warm, and carried a leather bag he set down by the door with the care of a man handling something fragile. Then he crouched — all the way down, to Rosie's eye level, a courtesy her mother extended and, in the photograph on the shelf, her father had too — and he smiled at her.
+He wore a coat, though the day was warm, and carried a leather bag he set down by the door with the care of a man handling something fragile. Then he crouched — all the way down, to Rosie's eye level — and he smiled at her.
 
 It was a good smile. Practiced. His mouth did all the work; his eyes were somewhere else entirely, running a private inventory Rosie had no way of reading.
 
@@ -31,15 +39,15 @@ Rosie didn't answer. She kept her boot planted on Ken's chest.
 
 "Hi," Rosie said, because you said hello when you were told to. She did not come closer, and she did not let up on Ken.
 
-Ferrer didn't push it. He turned to her mother instead, his voice dropping into the low, patient register adults used when they assumed a child couldn't follow what was being said six feet above her head — free coverage, prenatal monitoring, language built for a nod and a signature, not a question. Rosie went back to her dolls. She pressed the boot in harder, and the Bratz in the audience kept watching, patient, unbothered — they'd seen this particular ending before. She kept one eye on the man the whole time: the leather bag that never opened, the coffee cup he held like a prop rather than a drink, the framed photograph on the shelf his gaze kept finding and sliding off of, as if lingering there would cost him something.
+Ferrer didn't push it. He turned to her mother instead, his voice dropping into the low, patient register adults used when they assumed a child couldn't follow what was being said six feet above her head — free coverage, prenatal monitoring, the follow-up schedule. Rosie went back to her dolls. She pressed the boot in harder, and the Bratz in the audience kept watching, patient, unbothered — they'd seen this particular ending before. She kept one eye on the man the whole time: the leather bag that never opened, the coffee cup he held like a prop rather than a drink, the framed photograph on the shelf his gaze kept finding and sliding off of, as if lingering there would cost him something.
 
 It was a photograph of her father. Joseph Casador in uniform, squinting into hard sunlight, one arm slung easily around Sol Maria's shoulders — taken years before Rosie was born, back when he still came home on leave every so often. One of those visits was the reason she existed at all.
 
 "She has his eyes," Ferrer said, following her gaze back to the photograph — pleased with himself, the satisfaction of a man checking an item off a list rather than making conversation.
 
-"She does," Sol Maria said, softer now, and for just a second the composure dropped out of her face and something tired stood there instead.
+"She does," Sol Maria said, softer now, and for just a second her shoulders dropped.
 
-Neither adult said what they were actually thinking. Sol Maria was doing the math on her mother's cardiology bills and what free coverage could mean for all three of them. Ferrer was taking stock of a room he already owned — the bag by the door still closed, the paperwork still unnecessary, the introduction the only thing that mattered today.
+Neither adult said what they were actually thinking. Sol Maria was doing the math on no job, a baby coming, and what free coverage could mean for all three of them. Ferrer was taking stock of a room he already owned — the bag by the door still closed, the paperwork already signed, the introduction the only thing that mattered today.
 
 On the rug, Rosie ground her boot in once more, hard, and Ken didn't get back up.
 
@@ -49,15 +57,15 @@ On the rug, Rosie ground her boot in once more, hard, and Ken didn't get back up
 
 A year had passed since the first visit, and Ferrer no longer needed to ring a doorbell.
 
-This time the appointment was at a clinic Sol Maria had never heard of, in an office park off Route 3, behind an unmarked door and a waiting room too clean to be a real waiting room — no magazines curling at the corners, no toys worn soft from other children's hands. A receptionist already had the paperwork ready when they walked in. A nurse called Rosie's name before Sol Maria had finished filling anything out, and the two of them went back together, Sol Maria's hand wrapped around Rosie's the whole way down the hall.
+This time the appointment was at a clinic Sol Maria had never heard of, in an office park off Route 3, behind an unmarked door. The waiting room was pale green and white: eight molded chairs bolted together in a row, a fluorescent panel humming over them with one tube a shade bluer than the rest, a water cooler in the corner with no cups in the holder. The air smelled of alcohol wipes. The only things on the walls were a fire-exit map and a clock that ticked loud enough to hear across the room. Sol Maria straightened the hem of Rosie's dress twice before she sat down. A receptionist already had the paperwork ready when they walked in. A nurse called Rosie's name before Sol Maria had finished filling anything out, and the two of them went back together, Sol Maria's hand wrapped around Rosie's the whole way down the hall.
 
 Rosie brought one Bratz doll with her, the one with the glitter hair, tucked under her arm. She left Ken at home. Ken had earned a rest.
 
-"This is just like the doctor's office," Sol Maria said, settling into the chair beside the exam table and pulling Rosie onto her lap instead of leaving her to sit alone on the paper. "One little pinch, and then we get ice cream. Same as always. I'm right here."
+"This is just like the doctor's office," Sol Maria said, settling into the chair beside the exam table and pulling Rosie onto her lap instead of leaving her to sit alone on the paper. "One little pinch, and then we go to Mark's. Same as always. I'm right here."
 
-Nothing about this vaccine matched what Sol Maria had been told. It existed on no manufacturer's label, was tracked in no pediatric registry, and had never once been administered to a child outside a converted testing facility two states away. Sol Maria knew none of that. She knew only that Dr. Ferrer's program covered every visit, every specialist, every worry she'd ever had about affording her daughter's health — and that the paperwork she'd signed eleven months earlier, at her own kitchen table, with her mother's medical bills piled on the counter behind her, had included a line for "supplemental immunizations per program protocol" that she'd read once, quickly, and signed.
+The vaccine existed on no manufacturer's label, was tracked in no pediatric registry, and had never once been administered to a child outside a converted testing facility two states away. Sol Maria knew none of that. She knew only that Dr. Ferrer's program covered every visit, every specialist, every worry she'd ever had about affording her daughter's health — and that the paperwork she'd signed at the coffee table the day they first came, with the rent notice on the counter, had included a line for "supplemental immunizations per program protocol" that she'd read once, quickly, and signed.
 
-Rosie was scared. She would not have admitted it, not even under threat, but her small hand found a fistful of Sol Maria's shirt and held on the second the nurse walked in with the tray. Being scared and being tough weren't opposites for Rosie — they were just two things happening at once, and she'd already decided which one got to show on her face.
+Rosie was scared. She would not have admitted it, not even under threat, but her small hand found a fistful of Sol Maria's shirt and held on the second the nurse walked in with the tray. Rosie was scared and tough at the same time, and she'd already decided which one got to show on her face.
 
 She watched the nurse snap on a pair of gloves, and Rosie's eyes went flat and hard, strange on a five-year-old — closer to a warning than a greeting: *I'm watching you, and I don't like you yet, and you're going to have to earn different.*
 
@@ -77,7 +85,7 @@ It hurt less than the flu shot had — a small cold pressure, gone almost before
 
 Sol Maria laughed despite herself, pressing a kiss into Rosie's hair, already promising the ice cream. As far as Sol Maria knew, it was the only part of the day that mattered.
 
-Behind them, in a room neither of them saw, a technician logged a single line into a database — a compound designation, a subject number, a timestamp. Nobody in that exam room knew the line existed. Sol Maria was already thinking about traffic on the way to the ice cream place. Rosie was already thinking about how good it had felt not to flinch.
+Behind them, in a room neither of them saw, a technician logged a single line into a database — a compound designation, a subject number, a timestamp. Sol Maria was already thinking about traffic on the way to Mark's. Rosie was already thinking about how good it had felt not to flinch.
 
 ---
 
@@ -85,17 +93,19 @@ Behind them, in a room neither of them saw, a technician logged a single line in
 
 By eight, Rosie was a determined, if impatient, reader — flipping ahead to see how a chapter ended before she'd properly finished the one before it, undeterred by her teacher's gentle notes about "reading in order." *Alice in Wonderland* was the book Titi Carmen had given her for her birthday, illustrated, heavier than it looked, and Rosie had claimed the top bunk and a flashlight for it the second lights-out was called.
 
+The room was dark except for the flashlight, a yellow circle on the page and a ceiling close enough to touch. Below her, Roman, four, slept with his mouth open and one sock off. Through the wall came Mom's novela, turned low, voices rising and falling in Spanish. Rain hit the window in fits. The streetlight outside had been flickering all week, on and off, never in any rhythm she could catch. Rosie pulled the comforter over her head into a tent, and the flashlight turned it into a lit cave that smelled of fabric softener, with the book lying open inside it.
+
 She was three chapters in — right at the part where Alice tips over the edge of the rabbit hole, arms out, dress ballooning, shelves and clocks and jars of marmalade sliding past in the dark — when the falling was no longer something happening to a girl in a book. It was happening to Rosie.
 
 Nothing warned her first. One second she was reading about the fall. The next she was in it — the flashlight gone, the bunk bed gone, her own body tipping backward into a darkness with actual air moving through it, actual temperature, cool and then cooler the further down she went.
 
-She should have screamed. Some part of her, watching from a strange distance, understood that screaming was the normal thing to do here. Instead it was the best amusement park ride she'd never been on — her stomach doing that pleasant, weightless drop, her hair streaming straight up around her face, small useless objects drifting past in the dark exactly as the book had described them.
+She should have screamed. Instead it was the best amusement park ride she'd never been on — her stomach dropping, pleasant and weightless, her hair streaming straight up around her face, small useless objects drifting past in the dark exactly as the book had described them.
 
 A clock spun past, close enough to catch, and she closed her hand around it before she could stop herself.
 
 It was solid. Heavier than it looked, cold brass warming fast against her palm, the second hand still sweeping underneath her fingers in a rhythm too quick to be right. She turned it over. The back was stamped with numbers that weren't numbers, arranged in an order that made her eyes hurt if she looked too long. Some instinct further back than thought told her the rule here was look, don't take — and then a different, louder instinct overruled it before she'd finished having the first one. Her hand closed tighter instead. She wanted it. She was keeping it.
 
-*This isn't the book anymore,* she thought, without alarm, with the mild confusion of someone who'd wandered into the wrong room of a house they knew well. *I made this part up.*
+*This isn't the book anymore,* she thought, without alarm. *I made this part up.*
 
 And then, mid-fall, arms still out, hair still streaming, a much smaller and much more practical thought arrived directly behind the first one: *Where was I before I fell?*
 
@@ -105,19 +115,17 @@ She sat up so fast the room tilted.
 
 The clock was real. Sitting right there in the dent she'd made in the comforter, brass gone a little cloudy with tarnish, second hand still sweeping in that same not-quite-right rhythm. She picked it up slowly, half expecting it to dissolve the second she touched it again. It didn't.
 
-She checked the clock on her nightstand. 8:34. Same as before she'd started falling, near as she could tell — no time gone missing out here, whatever had happened to the ten minutes on the other side of it.
+She checked the clock on her nightstand. 8:34. Not a minute had passed since she'd started falling, near as she could tell — no time gone missing out here, whatever had happened to the ten minutes on the other side of it.
 
 ---
 
-Half a mile away, on Bergenline Avenue, Mr. Osorio was doing his last walk of the thrift shop floor before locking up, register drawer tucked under one arm, checking nothing had been left out for the cleaners to trip on. He passed the shelf of secondhand clocks — six of them, none worth much, each with the particular, forgettable ugliness that eventually sells to somebody — and didn't notice there were five.
-
-He wouldn't notice for weeks. By the time he did, he'd have long since decided he must have miscounted at close that night, and moved on — small math that didn't add up and wasn't worth chasing.
+Half a mile away, on Bergenline Avenue, Mr. Osorio was doing his last walk of the thrift shop floor before locking up, register drawer tucked under one arm, checking nothing had been left out for the cleaners to trip on. He passed the shelf of secondhand clocks — six of them, none worth much — and didn't notice there were five.
 
 ---
 
 Rosie considered the clock in her hands for exactly as long as an eight-year-old considers most things that don't have snacks attached to them, which was not very long, and arrived nowhere near an explanation that made sense. What she did instead was practical: she got up, opened her bottom dresser drawer, buried the clock under a winter sweater she wouldn't need again until November, and told no one. Some things you didn't hand to a grown-up to be believed or not believed. Some things you just kept.
 
-She marked her page with a folded gum wrapper, turned off the flashlight, and went to sleep for real this time. By breakfast, the ten minutes of falling had shrunk down to the size of any other forgettable dream — smaller than the monsters under the bed, smaller than the tooth fairy, who she also privately suspected was just her mother. The clock stayed exactly where she'd put it, under the sweater, for a long time.
+She marked her page with a folded gum wrapper, turned off the flashlight, and went to sleep for real this time. By breakfast, the ten minutes of falling had shrunk down to the size of any other forgettable dream — smaller than the monsters under the bed, smaller than the tooth fairy, who she also privately suspected was just her mother. The clock stayed exactly where she'd put it, under the sweater.
 
 ---
 
@@ -125,11 +133,13 @@ She marked her page with a folded gum wrapper, turned off the flashlight, and we
 
 By thirteen, Rosie had stopped waiting for a book to hand her a story. She built her own and kept going back to it, a kid replaying a favorite level of a video game, refining her approach a little more each time.
 
+The forest was always the same when she arrived: pines packed so close their lower branches had died and gone gray, the path between them a strip of packed red clay, the light coming down green and late no matter what hour she'd left home. It smelled of resin and wet leaf rot, and under that, faint, the sweet stink of a carcass somewhere off the path. Birds called from high up and went quiet when she looked for them. A fox at the edge of the trees held still too long. A crow turned its whole head to follow her. Every so often a sign had been nailed to a trunk, hand-lettered and cheerful — GRANDMOTHER'S COTTAGE, with an arrow. The paint on the arrows was fresh. The nails had rusted.
+
 The first four times she came back to the forest, she didn't go near the wolf at all.
 
 She went in as a squirrel once, small and fast and beneath his notice, and rode a low branch above the path while he paced it, muttering to himself about a girl in a red cloak and a grandmother alone in a cabin two miles further on. She went in as a sparrow the next time, close enough to a windowsill to watch him circle the cabin at odd hours, patient, calculating, clearly working up to something he hadn't committed to yet. She learned his patterns through unglamorous repetition — watching, waiting, saying nothing.
 
-Rosie went in twice as herself. She found Claire — for that was the girl's true name, never Little Red Riding Hood, as if the child didn't deserve something better — treading her familiar path with basket in hand. Rosie fell into step beside her just long enough to learn a few truths: Claire loathed the crimson cloak, wearing it only out of a guilty duty to the grandmother who spun it, and she had harbored a dark premonition about these woods all week that everyone else had dismissed. The second time, Rosie slipped into the cabin itself while the wolf was still leagues away. She sat down with the grandmother — Molly, a name that fit her far better than the sterile title of Grandmother — for a proper tea party complete with lace doilies and miniature porcelain cups. The brew was a bitter herbal concoction Rosie wouldn't have chosen in a century, but she drank it down and praised the flavor. Thirteen-year-old Rosie, it seemed, still possessed a stubborn streak of old-fashioned manners. She left that afternoon with a profound fondness for Molly — far more than made any sense, for a woman she had known only a handful of hours.
+Rosie went in twice as herself. She found Claire — that was the girl's real name; Little Red Riding Hood was only the cloak — treading her familiar path with basket in hand. Rosie fell into step beside her just long enough to learn a few truths: Claire loathed the crimson cloak, wearing it only out of a guilty duty to the grandmother who spun it, and she had harbored a dark premonition about these woods all week that everyone else had dismissed. The second time, Rosie slipped into the cabin itself while the wolf was still leagues away. She sat down with the grandmother — Molly, a name that fit her far better than the sterile title of Grandmother — for a proper tea party complete with lace doilies and miniature porcelain cups. The brew was a bitter herbal concoction Rosie wouldn't have chosen in a century, but she drank it down and praised the flavor. Thirteen-year-old Rosie, it seemed, still possessed a stubborn streak of old-fashioned manners. She left that afternoon with a profound fondness for Molly — far more than made any sense, for a woman she had known only a handful of hours.
 
 All of it happened well before the day the wolf finally moved on the cabin for real. Rosie made sure of that. She wasn't ready yet, and some part of her — the part that was starting, quietly, to enjoy this — didn't want to be ready too soon.
 
@@ -139,7 +149,7 @@ The wolf stepped out from behind a tree, unhurried, and smiled at her with a mou
 
 "My, aren't you far from home," he said.
 
-She'd heard that voice run this exact routine on Claire, from the branches, twice now — pleasant, patient, asking a question he clearly already knew the answer to — and something about hearing it aimed at her instead finally clicked a piece into place. She knew this cadence. She'd heard it in her own living room, crouched at her eye level, smelling of coffee he was only ever holding, not drinking.
+She'd heard that voice run this exact routine on the path, to himself, twice now — pleasant, patient, asking a question he clearly already knew the answer to — and something about hearing it aimed at her instead finally clicked a piece into place. She knew this cadence. She'd heard it in her own living room, crouched at her eye level, smelling of coffee he was only ever holding, not drinking.
 
 "You're not even trying to disguise your voice," she said.
 
@@ -151,11 +161,11 @@ The wolf's smile faltered — just slightly, just long enough for her to see som
 
 That one landed. His circling slowed. His eyes cut sideways into the trees, once, then again, scanning the shadows. He was trying to work out who else might be out there — how a girl alone could have had eyes on him without his ever once catching her at it.
 
-"Clever girl," he said — that particular flavor of pleased again, a man checking an item off a list — though something in it now was thinner, already recalculating how much she knew.
+"Clever girl," he said — a man checking an item off a list — though something in it now was thinner, already recalculating how much she knew.
 
 "I'm not done watching," she said.
 
-Then she turned to go, and the forest went with her — the path behind her folding itself shut, branches drawing together overhead, the whole wood letting out a breath it had been holding for her. The wolf watched it happen and took an involuntary step back, the fur along his spine lifting at a sight he had no name for. By the time he found his voice again, she was already gone.
+Then she turned to go, and the forest went with her — the path behind her folding itself shut, branches drawing together overhead, the whole wood letting out a breath it had been holding for her. The wolf watched it happen and took an involuntary step back, the fur along his spine lifting. By the time he found his voice again, she was already gone.
 
 It was the last time she gave him the choice.
 
@@ -173,7 +183,7 @@ She didn't stop at a hold. She broke his arm first — a clean, ugly snap that f
 
 It wasn't a fair fight. She'd made sure of that before he ever walked through the door.
 
-By the time she crouched down to his level, the wolf couldn't quite focus both eyes on her at once, but underneath the pain there was something close to respect.
+By the time she crouched down to his level, the wolf couldn't quite focus both eyes on her at once.
 
 "You're going to leave Molly alone," Rosie said. "Claire too. From now on."
 
@@ -181,7 +191,7 @@ He made a sound that passed for agreement — wet, broken, barely a word at all.
 
 "Good," Rosie said. "I am your pack leader now."
 
-He didn't argue. Something in him had already decided, somewhere between the broken arm and the floor, that arguing wasn't a category of response available to him anymore.
+He didn't argue.
 
 "What's your name?" she asked. "Your real one."
 
@@ -189,7 +199,7 @@ He didn't argue. Something in him had already decided, somewhere between the bro
 
 It didn't suit him even a little, and that, more than the beating or the promise, seemed to be the thing that finally, fully defeated him.
 
-From that visit on, the wolf — Larry — came to heel every time Rosie returned to the woods. He was hers. He didn't wait to be asked for anything. Still folded on Molly's floor that first afternoon, none of the old performance left in his voice, he offered something up on his own — a dog laying its best find at her boots — a thing he'd found prowling those woods long before she'd ever shown up in them, something he'd apparently been carrying around with nowhere to put it until now. Rosie sat back on a heavy leather couch, a glass of amber liquid Molly had poured for her swirling idly in one hand, her boot heels resting inches from Larry, who knelt submissively at her feet. She looked down at him, her brow furrowing with a mixture of amusement and irritation.
+The wolf's name was Larry, and he was hers now. Still folded on Molly's floor that first afternoon, none of the old performance left in his voice, he offered something up on his own — a dog laying its best find at her boots — a thing he'd found prowling those woods long before she'd ever shown up in them, something he'd apparently been carrying around with nowhere to put it until now. Rosie sat back on a heavy leather couch, a glass of amber liquid Molly had poured for her swirling idly in one hand, her boot heels resting inches from Larry, who knelt submissively at her feet. She looked down at him, her brow furrowing with a mixture of amusement and irritation.
 
 "There's a place," he said. "A castle. White as bone, sitting up above everything, so high the clouds sit under it instead of over it. I saw the wolf guard carry a vault into it once. You won't find a name for it anywhere real. But it's real. Those wolves live up there — guard it, more like. And they're governed by an evil man named Baron Malagrow. I've seen them moving along the tree line some nights, watching for anyone who gets too close."
 
@@ -215,23 +225,25 @@ Rosie reached down and patted him once on the head, a brief, absent scratch. Lar
 
 ## Scene 5 — Age 14: The CYM Vault
 
-A year later, she'd stopped waiting for the world to open a door for her.
+A year later, she opened the doors herself. She did it from her bed: lights off, door locked, the streetlight striping the ceiling through the blinds.
 
-There was no glowing portal, no rabbit hole, nothing so generous. What there was: her eyes closing, her breath dropping into a sharp fractal rhythm, in and in and in again at intervals no human lung should have been able to hold — each one tuning in to the frequency of her mind's eye. She'd gotten good at it. She got better every time. Ten breaths in, the air around her began to split, vibrant overlapping echoes of another place bleeding through this one, two photographs exposed onto the same strip of film. Her bedroom and a mountain road occupying the same cubic foot of space, both of them equally true.
+Her eyes closed. Her breath dropped into a sharp fractal rhythm, in and in and in again without ever letting a breath out — each one tuning in to the frequency of her mind's eye. She'd gotten good at it. She got better every time. Ten breaths in, the air around her began to split, vibrant overlapping echoes of another place bleeding through this one, two photographs exposed onto the same strip of film. Her bedroom and a mountain road occupying the same cubic foot of space, both of them equally true.
 
 Then one final blink, precise, deliberate — and her body found perfect coherence with the other side. The old world collapsed behind her, a painted canvas going slack off its frame, and she dropped through into thin cold air biting at her lungs, standing on a switchback road cut into a mountainside.
 
 Larry had given her one word. *Up.* It had taken her months to find it. Each time she memorized the landscape, studied the atmosphere, learned about the beings who dwelled here.  
 
-She went in as a crow this time — black, unremarkable, a bird nobody bothers tracking with their eyes — and rode the wind above the tree line until the castle came into view: white stone against a bruised, late sky, sprawling far past anything an ordinary family would ever need.
+She went in as a crow this time — black, unremarkable, one more crow over the pines — and rode the wind above the tree line until the castle came into view: white stone against a bruised, late sky, sprawling far past anything an ordinary family would ever need.
 
-From above, a bird's clean sightline caught the towering perimeter of the fortress and the vanguard of seven-foot-tall man-wolf soldiers standing motionless along it, their massive, heavily muscled frames cast in shadow under the dim light. They wore interlocking tactical armor forged from matte-black, non-reflective alloys, specially molded to fit their digitigrade legs and broad, powerful chests without restricting their predatory agility. Heavy leather bandoliers crossed over their armor, packed with high-caliber ammunition and metaphysical dampening grenades, while dark, reinforced pauldrons protected their shoulders.  Their heads swiveled in smooth, synchronized micro-movements, snapping with terrifying, mechanical precision toward the slightest disruption in the forest line. With each rotation, their elongated, lupine snouts twitched to catch scent trails in the wind, while their ears pricked upward, tracking the sub-audible frequencies of the wilderness. They did not blink or break formation; instead, their yellow, predatory eyes scanned the perimeter in overlapping fields of vision, their jaws slightly parted to let out low, vibrating growls that signaled a flawless, unbroken web of security. 
+From above, she saw the perimeter and the soldiers standing along it: man-wolves, seven feet tall, motionless, in matte-black armor molded to their bent-back legs and broad chests. Leather bandoliers crossed over the armor, heavy with rounds and grenades she couldn't name. Dark pauldrons capped their shoulders.
 
-High on the east face, past every window she'd catalogued, one stood apart: narrow, arched, set into a turret that seemed to exist purely to hold it, guarded by nothing visible at all — no wolf posted beneath it, no light behind the glass. A house wraps itself around a window such as that one to protect something, not someone.
+Their heads turned together, in small exact movements, toward every shift in the tree line. Snouts twitched at the wind. Ears came up. None of them blinked. Their yellow eyes swept the ground in overlapping arcs, and every few seconds one of them growled low, and the next one down the wall answered it.
 
-She dropped and landed on the sill, folding her wings, and the instant her claws touched stone something invisible caught her whole. Not a wall. A refusal — total, immediate, a pressure filling every direction at once that simply would not let her cross the last six inches into the room. She beat her wings against nothing and gained no ground at all, and after the third useless attempt she gave up and understood the door had been built for someone very specific, and she was not that someone.
+High on the east face, past every window she'd catalogued, one stood apart: narrow, arched, set into a turret that seemed to exist purely to hold it. No wolf stood beneath it, and the glass was dark.
 
-She went in on the ground instead, as herself, and the two wolves guarding the gate barely got a growl out before she'd put them down — the same knowledge her body had found the day she broke Larry's arm, faster now, more her own each time she reached for it. She stepped over them and kept moving.
+She dropped and landed on the sill, folding her wings, and the instant her claws touched stone something invisible caught her whole: a pressure filling every direction at once that simply would not let her cross the last six inches into the room. She beat her wings against nothing and gained no ground at all, and after the third useless attempt she gave up and understood the door had been built for someone very specific, and she was not that someone.
+
+She went in on the ground instead, as herself. The armored line stopped at the walls; the gate itself was left to two ordinary wolves on four legs, posted where nothing ever came, and they barely got a growl out before she'd put them down — the same knowledge her body had found the day she broke Larry's arm, faster now, more her own each time she reached for it. She stepped over them and kept moving.
 
 More waited inside. She fought her way up through the castle floor by floor, guards peeling off the walls to join the chase behind her, one hallway becoming a stairwell becoming another hallway, blood and fur and the splinter of wood each time she put one down and didn't stop to check if he'd get back up.
 
@@ -239,11 +251,11 @@ The vault room stood empty when she finally reached it. The vault itself sat exa
 
 She wedged the tip into the hairline where a lid should have met a base and leaned her whole weight behind it.
 
-The instant the metal touched the surface, the vault answered. Its oil-slick sheen strobed violently, once, twice, light without a source behind it, and something raced back down the screwdriver into her hand before she could let go. It didn't explode. It unmade. The tool and the arm holding it came apart together, atom by atom, no bond between them surviving the same half-second, and Rosie was screaming before she understood why, staring at a wrist that ended in nothing — a drifting, shimmering cloud of gray ash where a hand had been a moment ago. The vault itself sat untouched, already calm again, its sheen gone smooth and still.
+The instant the metal touched the surface, the vault answered. Its oil-slick sheen strobed violently, once, twice, light without a source behind it, and something raced back down the screwdriver into her hand before she could let go. It unmade. The tool and the arm holding it came apart together, atom by atom, no bond between them surviving the same half-second, and Rosie was screaming before she understood why, staring at a wrist that ended in nothing — a drifting, shimmering cloud of gray ash where a hand had been a moment ago. The vault itself sat untouched, already calm again, its sheen gone smooth and still.
 
 That was when Baron walked in.
 
-He filled the doorway before he fully cleared it — seven and a half feet of him, a torso heavy enough with muscle to carry siege equipment, and above all that mass, a head that belonged to no man at all: a lion's head, golden-maned, terrible, feline eyes gleaming with a cold human intelligence behind an animal's face. Six wolves came in around him, shadow-furred, easily twice the size of anything she'd fought on her way up here, moving with a discipline that had nothing feral left in it — a living wall built to close on anyone who got too close to him and never open again.
+He filled the doorway before he fully cleared it — seven and a half feet of him, a torso heavy enough with muscle to carry siege equipment, and above all that mass, a head that belonged to no man at all: a lion's head, golden-maned, terrible, feline eyes that went to her ruined arm, then the vault, then her face, in that order. Six wolves came in around him, shadow-furred, easily twice the size of anything she'd fought on her way up here, moving with a discipline that had nothing feral left in it — a living wall built to close on anyone who got too close to him and never open again.
 
 They stopped at the threshold. All six of them, at no signal she could see, and stayed there.
 
@@ -251,9 +263,9 @@ He crossed to her without hurry, closed one massive hand around her ruined arm, 
 
 He didn't touch the vault itself. He adjusted something small clipped to his wrist instead — a scanner of some kind — and aimed it at the obsidian case until whatever storm still moved under its surface finally went still.
 
-"You fools are treating a multidimensional lock as though it were some steel bank box," he said, and his voice carried something under the words that wasn't quite a growl and wasn't quite anything human either — a low vibration she felt in her sternum before she heard it as sound.
+"You fools are treating a multidimensional lock as though it were some steel bank box," he said, and his voice carried a low vibration under the words, one she felt in her sternum before she heard it.
 
-Rosie looked down at what was left of her arm, and a part of her — the part that had learned, visit after visit, exactly how much of this place answered to her and no one else — simply decided the ash wasn't the end of the story. "there is no spoon" she thought to herself.  She willed the hand back. It came, flesh and bone reassembling out of the drifting cloud, whole again, hers again, every finger answering when she flexed it.
+Rosie looked down at what was left of her arm, and a part of her — the part that had learned, visit after visit, exactly how much of this place answered to her and no one else — simply decided the ash wasn't the end of the story. *There is no spoon.* She willed the hand back. It came, flesh and bone reassembling out of the drifting cloud, whole again, hers again, every finger answering when she flexed it.
 
 Baron went still in a different way this time. "How is that possible," he said, no question mark left in his voice at all.
 
@@ -275,7 +287,7 @@ He was fast — faster than she expected, faster than she was ready for — and 
 
 She slipped out before he could land a fifth.
 
-She'd returned to this world so many times now, visiting had quietly turned into belonging. Claire trusted her outright. Molly loved her, plainly, without any of the caution you'd expect toward someone she'd known such a short time. Even the wolves — Larry most of all — deferred to her as the one actually in charge. Somewhere across all those visits, she had become the one thing standing between this family and the man who wanted to unmake all of them. Whatever was in that vault, it was what he'd used to make his pack, and it was what kept Molly and Claire inside his reach. She wanted it out of his hands for good.
+She'd returned to this world so many times now, visiting had quietly turned into belonging. Claire trusted her outright. Molly loved her, plainly, without any of the caution you'd expect toward someone she'd known such a short time. Even the wolves — Larry most of all — deferred to her as the one actually in charge. Somewhere across all those visits, she had become the one thing standing between this family and the man who wanted to unmake all of them. Whatever was in that vault, it was what he'd used to make his pack, and it was what kept Molly and Claire inside his reach.
 
 She came back to her own bed whole. The split lip, the bruises — none of it followed her home. It never did. Whatever happened to her over there stayed over there, and she lay in the dark afterward with the memory of losing and no evidence of it anywhere on her.
 
@@ -285,17 +297,17 @@ Four days later she gave up trying to think her way to an answer and parked hers
 
 Three of her. That was the whole idea, plain and complete, sitting right there in a cartoon she'd half stopped watching years ago.
 
-She went back that same night. Found Larry first, curled loyal and waiting near the tree line, exactly where he always was now, and crouched down to his level again, same as the day she'd broken him. He still favored the arm she'd snapped a year of visits ago — it had healed wrong, or hadn't finished healing at all, a slight permanent bend to it he carried without complaint.
+She went back that same night. Found Larry first, curled loyal and waiting near the tree line, exactly where he always was now, and crouched down to his level again. He still favored the arm she'd snapped a year of visits ago — it had healed wrong, or hadn't finished healing at all, a slight permanent bend to it he carried without complaint.
 
-"I need you at the gate," she said. "Hold the others off as long as you can. I'm going up alone. Don't kill them all.  Restrain the survivors and bring them up to the cell.  I'll be waiting."
+"I want that box out of his hands," she said. "For good. I need you at the gate. Hold the others off as long as you can. I'm going up alone. Don't kill them all. Restrain the survivors and bring them up to the cell. I'll be waiting."
 
 He raised his injured arm between them like a shield, his gaze tracking a spot somewhere near her boots. "I'll try."
 
-Rosie didn’t let him look away. She caught his chin with her eyes, then reached up to press her palm firmly against the crown of his head. "You're my good boy," she murmured. "You will do this". Rosie touched his broken arm and focused her will on regenerating a new one. "You are strong and you will defeat every one of them", she continued.
+Rosie didn’t let him look away. She held his eyes, then reached up to press her palm firmly against the crown of his head. "You're my good boy," she murmured. "You will do this." Rosie touched his broken arm and focused her will on making it new. "You are strong, and you will defeat every one of them," she continued.
 
-The words carried a pulse. A sudden, violent hum sparked beneath her fingertips and dove straight into his veins, flooded with heat. The mangled flesh of his arm knit back together in a blur of snapping bone and rushing blood, surging past healed and straight into something sharper, heavier, and bursting with raw power. She watched the transformation ripple through him—saw his spine snap straight under her hand as the magic anchored itself somewhere deep in his chest. When he turned back toward the gate, the hesitation was entirely gone. He threw his shoulders back, his stride heavy and dangerous, ready to tear the world apart.  Larry was used to being transformed and he appreciated this one most of all.
+The words carried a pulse. A sudden, violent hum sparked beneath her fingertips and dove straight into his veins, flooded with heat. The mangled flesh of his arm knit back together in a blur of snapping bone and rushing blood, surging past healed, into something heavier. She watched the transformation ripple through him—saw his spine snap straight under her hand as the magic anchored itself somewhere deep in his chest. When he turned back toward the gate, he threw his shoulders back, and his stride was heavy and dangerous.
 
-Upstairs, Baron was waiting in the same spot, beside the same pedestal, and this time nothing in his face suggested surprise. Something closer to appreciation moved through it instead, the particular respect of a man watching an opponent finally arrive worth the trouble of killing.
+Upstairs, Baron was waiting in the same spot, beside the same pedestal, and this time nothing in his face suggested surprise. He looked pleased to see her.
 
 "Come to finish what you started?" he said.
 
@@ -307,7 +319,7 @@ The first Rosie fought with light. She pulled it out of the air and hardened it,
 
 The second fought with time. Every blow he landed on her, she simply took back — reeling the seconds in, standing again where she'd been standing before it happened, unmarked, while the memory of hitting her stayed in his hands and matched nothing in front of him. He broke her ribs four separate times and none of them stayed broken.
 
-The third never touched him at all. She knelt and put one palm flat against the stone floor beneath his feet, and the stone gave up being stone, dissolving out from under him into a slow spreading circle of glittering dust, sinking him to the ankles and then the shins while the other two kept him too busy to look down.
+The third never touched him at all. She knelt and put one palm flat against the stone floor beneath his feet, and the stone softened and crumbled out from under him into a slow spreading circle of glittering dust, sinking him to the ankles and then the shins while the other two kept him too busy to look down.
 
 Baron fought hard. It didn't matter. Three of her closed on him from three directions, and inside of a minute he was down, the fight gone out of him all at once, completely, with nothing left over to argue with.
 
@@ -335,68 +347,69 @@ She kept it there.
 
 It came out of him whether he wanted it to or not, a man reciting something he'd had memorized far longer than he'd ever meant to say it out loud, his own voice running ahead of whatever was left of his will to withhold it.
 
-"it's sealed with a quantum entanglement matrix, a biological security system tailored exclusively to their own elite bloodline to ensure no outsider could ever threaten their throne.  The casing doesn't exist in a single state. Force it — kinetic, thermal, doesn't matter — and it corrects itself by scattering whatever touched it into noise, down to the atom. What happened to your arm. It's not a lock. It's a paradox machine, and it treats every wrong answer as a threat to be erased." He nodded once at the vault behind him. "Opening it takes two stages, not one. First, a device has to mirror the lock's own distortion — clone it, phase for phase, into a condensate stable enough to hold inside a sealed cryo-tube. Second, that tube has to reach someone whose blood carries none of the taint running through mine — someone whose genome has been rewritten, completely, down to the last strand. Only that body reads as a valid observer to it. The DNA itself becomes the final circuit. Only then does it unfold for you instead of erasing you for asking."
+"It's sealed with a quantum entanglement matrix, a biological security system tailored exclusively to their own elite bloodline to ensure no outsider could ever threaten their throne. The casing doesn't exist in a single state. Force it — kinetic, thermal, doesn't matter — and it corrects itself by scattering whatever touched it into noise, down to the atom. What happened to your arm. It's not a lock. It's a paradox machine, and it treats every wrong answer as a threat to be erased." He nodded once at the vault behind him. "Opening it takes two stages, not one. First, a device has to mirror the lock's own distortion — clone it, phase for phase, into a condensate stable enough to hold inside a sealed cryo-tube. Second, that tube has to reach someone whose blood carries none of the taint running through mine — someone whose genome has been rewritten, completely, down to the last strand. Only that body reads as a valid observer to it. The DNA itself becomes the final circuit. Only then does it unfold for you instead of erasing you for asking."
 
-Whatever her weight did to him when it landed full and committed, she noted it, certain she'd need it again.
+She peeled away from herself, leaving a double behind to keep her heel ground into his chest. Crossing the room, she claimed a heavy metal chair. She sat staring at her own back, watching herself tower over a lion of a man, her consciousness split cleanly between the foot holding him down and the eyes watching it happen. 
 
-She peeled away from herself, leaving a double behind to keep her heel ground into his chest. Crossing the room, she claimed a heavy metal chair, her mind already spinning with the implications of this new tool. The view from the chair was uncanny. She sat staring at her own back, watching herself tower over a lion of a man, her consciousness split cleanly between the foot holding him down and the eyes watching it happen. 
+Footsteps came down the hallway, and Larry's voice with them. "Mistress! It is done!"
 
-"Mistress!" Footsteps and Larry's voice echoed from the hallway "it is done!"
-"Excellent my boy! wait out there for instructions", Rosie commanded.
-  
-The heavy metal chair scraped against the stone floor as Rosie stood and stepped into her duplicate, the damp light of the cell capturing it all. She took her foot off and watched below her, as Baron slouched, his aristocratic poise completely shattered after the relentless interrogation. He had given her everything—every hidden coordinate of the deep sectors, every mathematical variable of the phase-conjugate keyframe, and the exact locations of the ancient rulers. 
+"Excellent, my boy! Wait out there for instructions," Rosie called.
 
-He raised his bruised face, his voice a hoarse, desperate rasp. "You have your answers," he muttered, staring at the dominant figure looming over him. "What will you do with me now?"
+Her double hauled Baron down the corridor to the cell — a stone room off the vault hall, one barred window, the air damp and cold — and pinned him to the floor with a boot again. Rosie followed, stepped back into herself, and took her foot off his chest. He stayed down. He had given her everything: every hidden coordinate in the deep sectors, every variable the cloning device would need, and the exact locations of the ancient rulers.
 
-Rosie let out a low, amused hum, circling him with slow, deliberate steps. "Execute you!".. She chuckled, a teenage girl enjoying power personality. "Nah..that would be entirely too merciful for a man of your ambition," she murmured, pausing to tilt his chin up with the toe of her leather boot. "I am going to cage you. I know the perfect little spot for your retirement— a secluded cabin deep in the southern woods. Molly’s house. The sister you tried to murder for land, with Claire, the grand-niece you desperately wanted to kidnap for her blood." 
+He raised his bruised face. "You have your answers," he rasped. "What will you do with me now?"
 
-The Baron’s eyes widened with a mix of raw fury and panic. "You wouldn't dare put me there. If I get loose, I'll finish what I started. I'll bleed that little brat dry!"
+Rosie circled him slowly. "Execute you!" She laughed — fourteen, and enjoying every second of it. "Nah. That would be too merciful for a man with your ambitions." She tipped his chin up with the toe of her boot. "I'm going to cage you. I know the perfect spot for your retirement: a cabin deep in the southern woods. Molly's house. The sister you tried to murder for her land, and Claire, the grand-niece you wanted for her blood."
 
-"You will try nothing," the Rosie countered, her voice dropping to a cold, unyielding register that instantly cut through his rage. "Because I am establishing strict rules for your care. You will remain locked in a reinforced cellar beneath their floorboards, completely at their mercy. If you attempt to escape, if you give Molly or Claire even an ounce of trouble, or if you so much as growl in their direction, my enforcement will be absolute. And speaking of enforcement..." She turned toward the heavy cellar door and let out a sharp, commanding whistle. 
+His eyes went wide, fury and panic together. "You wouldn't dare put me there. If I get loose, I'll finish what I started. I'll bleed that little brat dry!"
 
-Instantly, three of the towering, seven-foot-tall man-wolf soldiers marched into the room. They wore their matte-black tactical armor, but instead of guarding their former master, they bowed their massive lupine heads submissively before her, their yellow eyes locked onto her every gesture.
+"You'll try nothing," Rosie said, and her voice dropped low enough to cut straight through his. "Here are the rules. You'll live locked in a reinforced cellar under their floorboards, at their mercy. If you try to escape, if you give Molly or Claire one ounce of trouble, if you so much as growl in their direction, my enforcement will be absolute. And speaking of enforcement—" She turned toward the cell door and whistled, sharp.
 
-"Your loyal wolf guards belong to me now, Baron," she said, running a gloved hand along the reinforced pauldron of the lead soldier. "They obey my voice, and my voice alone. And while I am away on my quest to claim the box, absolute authority over this estate and your cage belongs to another."She gestured toward the shadows, where Larry stepped forward, his posture straight and a dangerous, quiet confidence gleaming in his eyes.
+Three of the seven-foot soldiers marched in, still in their matte-black armor. They didn't go to their old master. They bowed their heads to her, yellow eyes following her every move.
 
-"Larry will be the one in charge here," the Baroness declared, looking back at the broken man on the floor with a chilling smile. "He knows the rules, he knows your twisted family history, and he has my full permission to enforce your captivity by any means necessary. Enjoy your new cage, Baron. Let's see how well you survive being the prisoner of the very family you tried to destroy."
+"Your wolves belong to me now, Baron," she said, running her hand along the lead soldier's pauldron. "They obey my voice and nobody else's. And while I'm away claiming the box, this estate and your cage belong to someone else." She nodded at the doorway, where Larry stepped in, standing straight and quiet.
+
+"Larry is in charge here," the Baroness said, and smiled down at the man on the floor. "He knows the rules. He knows your family's history. And he has my permission to keep you caged by any means necessary. Enjoy your new home, Baron. Let's see how you do as the prisoner of the family you tried to destroy."
 
 ---
 
 ## Scene 6 — Age 18: The Violent Slip
 
-Four years of practice, and the shift took her only nine seconds. 
+Four years of practice, and the shift took her only nine seconds.
 
-She no longer counted the beats, nor did she need to close her eyes to find the seam in the world. At eighteen, Rosie sat on the edge of her mattress with her homework sprawling unfinished beside her, listening to the familiar, low murmur of her mother’s television bleeding through the drywall. Without a single visible effort, she dropped her breathing into that sharp, fractal rhythm—the very same trick that, at fourteen, had demanded ten agonizing minutes of absolute silence to summon.The air fractured. Two worlds overlapped in the bedroom: her own cramped space, and a distant coordinates she had chosen with more meticulous care than any vacation destination. Both realities existed at once, equally true, equally solid.
+Her room didn't look like a senior's room. The bed was made with hospital corners. The desk faced the door, not the window, and on it the Rutgers packet sat squared to the edge beside three college essays in clean folders, each tab labeled in her block capitals. A corkboard over the desk held her cheer schedule, the yearbook deadlines, and a county map with four pins in it, one red. Nothing on the walls was there to be looked at. In the bottom dresser drawer, under the winter sweaters, a brass clock still kept the wrong time.
+
+She no longer counted the beats, nor did she need to close her eyes to find the seam in the world. At eighteen, Rosie sat on the edge of her mattress with a pen in her hand, listening to the familiar, low murmur of her mother’s television bleeding through the drywall. Without a single visible effort, she dropped her breathing into that sharp, fractal rhythm—the very same trick that, at fourteen, had demanded ten slow, agonizing breaths of absolute silence to summon. The air fractured. Two worlds overlapped in the bedroom: her own cramped space, and a distant set of coordinates she had chosen with more care than any vacation destination.
 
 It had taken three long years of stumbling through the dark to learn how to aim herself on purpose. 
 
-The curiosity had started small around her fifteenth year, a quiet ache that never truly left her. A man had started coming around the house—Ferrer, her mother called him. Sol Maria always spoke his name with a warm, heavy gratitude, the sort of easy fondness usually reserved for a trusted family doctor. But Rosie had clocked the mismatch instantly. The look Ferrer gave Roman never carried a physician's warmth; it held a cold, meticulous patience instead. It was the look of a man measuring a specimen, waiting for a predictable change.
+Around fifteen, she started watching Ferrer. She only ever saw him late, after Roman was asleep: a man at the kitchen table with her mother, coffee going cold in front of him, a folder he closed when she came in for a glass of water. Sol Maria said his name with a warm, heavy gratitude she otherwise saved for priests and pediatricians. Twice Rosie caught him looking down the hall at Roman's closed door. He looked at it for a long time, patient and cold, a man waiting on a result.
 
 Rosie never pressed her mother too hard. Not at first, and never in a way that required a real explanation. "Who’s Dr. Ferrer again?" she had asked once, her hands deep in the dishwater, her voice perfectly casual, a girl asking about a neighbor from down the block. "How do you guys even know him?" Sol Maria had answered easily, almost eagerly, spinning tales of medical coverage, pro bono care, and Joseph’s old program—answers that explained the logistics perfectly while telling Rosie absolutely nothing at all. Rosie asked again, shifting her angle, months down the road. She asked a third time a year after that. She never told her mother why she was digging, nor did she ever reveal what she was capable of doing. The two secrets sat together in the quiet house, comfortable enough that Sol Maria never once realized her own daughter was interrogating her.
 
-By sixteen, Rosie had stopped believing Roman’s headaches were just headaches. By seventeen, she began testing the boundaries of her gift, wondering if a slip had to be a place her mind merely conjured, or if she could aim it like a flashlight beam at the tangible world. She tried the local grocery store she’d walked a hundred times. She tried her old elementary school. She chose places she knew by heart—holding the geometry of the walls, the swing of the doors, and the distinct, dusty smell of the hallways entire in her mind—and then pushed forward, breathing, until the version of that place sitting one thin dimension over answered the call. 
+By sixteen, Rosie had stopped believing Roman’s headaches were just headaches. By seventeen, she began testing the boundaries of her gift, wondering if a slip had to be a place her mind merely conjured, or if she could aim it like a flashlight beam at the tangible world. She tried La Bodega on the corner, a store she’d walked a hundred times. She tried Robert Fulton, her old elementary school. She chose places she knew by heart—holding the geometry of the walls, the swing of the doors, and the distinct, dusty smell of the hallways entire in her mind—and then pushed forward, breathing, until the version of that place sitting one thin dimension over answered the call. 
 
-It worked. It kept working. Ferrer’s building was only the fourth place she had ever targeted—a drab office complex she had sat in exactly once as a child, swinging her bored legs while her mother filled out intake forms at a clipboard. She had barely glanced at the linoleum then. She had looked at nothing else since. The revelation she had been carrying for the past month went with her tonight—the final, heavy piece that turned four years of aimless practice into a reason to pull the trigger. 
+It worked. It kept working. Ferrer’s building was only the fourth place she had ever targeted—a drab office complex she had sat in exactly once as a child, swinging her bored legs while her mother filled out intake forms at a clipboard. She had barely glanced at the linoleum then. She had looked at nothing else since. The revelation from that morning went with her tonight—the final, heavy piece that turned four years of practice into a reason to pull the trigger. 
 
-She had worked the math out in the most mundane of places: sitting at her own kitchen table, watching Roman shovel cereal into his mouth while complaining about a migraine that had dogged him since Tuesday. An untouched bloodline. A genome rewritten down to the very last strand. Baron had handed her that terrible truth in a caged room four years ago, and she had carried it ever since, turning it over and over in her memory's museum, yet never once holding it up against the boy who sat three feet away from her every morning of her life. 
+She had worked the math out in the most mundane of places: sitting at her own kitchen table, watching Roman shovel cereal into his mouth while complaining about the migraine that had put him on the bathroom floor an hour earlier. An untouched bloodline. A genome rewritten down to the very last strand. Baron had handed her that terrible truth in a vault room four years ago, and she had carried it ever since, turning it over and over in her memory's museum, yet never once holding it up against the boy who sat three feet away from her every morning of her life. 
 
-Her brother had been sick in ways no textbook could name since before he could even walk. 
+Her brother had been getting headaches no doctor could explain since he was nine. 
 
 Someone had done that to him. Someone had reached inside his small body and written something cruel and new, and whoever they were, they had left Roman carrying the only key in the universe to a prize sitting on a pedestal in another world.
 
 Baron had sworn the box carried the answer to life and death. For four years she had only heard the death in it. Now, watching Roman press two fingers to his temple between spoonfuls, she heard the rest: if someone had written something cruel into him, then maybe the one thing in any world that opened for him could write it out again.
 
+Behind him, on the fridge, under a Goya magnet, hung the clipping Mom had cut from a magazine story, the paper gone soft and yellow. Rosie read it for the first time in years. *To love at all is to be vulnerable.* She looked back at her brother.
+
 Rosie had gone entirely still at the kitchen table that morning. Then, she had finished her coffee, kissed her mother goodbye, and started planning.
 
 ---
 
-The corridor resolved around her and it wasn't a castle.
+The corridor resolved around her: fluorescent light and poured concrete, a floor waxed to a shine, a long white hallway with numbered doors and a smell of industrial disinfectant laid over something faintly chemical underneath. Somewhere far off, an air handler cycled. Her mind had stopped dressing this up for her. She took that as a compliment.
 
-No stone. No torches, no wolves, no fairy tale to hide behind. This slip had given her fluorescent light and poured concrete, a floor waxed to a shine, a long white hallway with numbered doors and a smell of industrial disinfectant laid over something faintly chemical underneath. Somewhere far off, an air handler cycled. Her mind had stopped dressing this up for her. She took that as a compliment.
+Six men came around the corner ahead of her.
 
-Six men came around the corner ahead of her. No wolves this time.
-
-They wore dark tactical gear and carried weapons she recognized from television, and they moved with the unhurried competence of men who had done this before and expected it to go fine. The first one raised a hand and told her to stop where she was.
+They wore dark tactical gear and carried AR-15s she recognized from the news, and they moved with the unhurried competence of men who had done this before and expected it to go fine. The first one raised a hand and told her to stop where she was.
 
 She didn't.
 
@@ -428,11 +441,11 @@ Rosie hit him hard enough to take him off his feet.
 
 She was not gentle with him, and she enjoyed it considerably less than she'd expected to.
 
-The reinforced doors of the high-security office hissed shut, locking Dr. Ferrer inside with Rosie. She did not waste time with formal demands; within minutes, the executive was pinned to his own leather chair, bound tightly with heavy steel chains. For the next hour, she went to work on him — the heavy leather whip that appeared at her hip, iron rods heated in the office hearth, and her fists. 
+The office doors hissed shut behind them. Within minutes Ferrer was pinned to his own leather chair, bound tight with heavy steel chains. For the next hour she went to work on him — the leather whip that appeared at her hip, iron rods heated red on the lab burner by his workbench, and her fists. 
 
-She demanded the key to open the vault, expecting his breaking point to arrive with every heavy strike. Yet, to her growing irritation, the expected screams of agony never came. Instead, Dr. Ferrer slouched back against his restraints, his chest heaving as a terrifying, ecstatic grin spread across his bloody lips. The man was a masochist. He took every lash and every burn as pleasure. He laughed, a wet, rattling sound that echoed off the office walls, taunting her to strike him harder while deliberately feeding her false answers just to prolong the torment. 
+She demanded the key to open the vault, expecting his breaking point to arrive with every heavy strike. Yet, to her growing irritation, the expected screams of agony never came. Instead, Dr. Ferrer slouched back against his restraints, his chest heaving as an ecstatic grin spread across his bloody lips. The man was a masochist. He took every lash and every burn as pleasure. He laughed, a wet, rattling sound that echoed off the office walls, taunting her to strike him harder while deliberately feeding her false answers just to prolong the torment. 
 
-Rosie stared at the bloody whip in her hand. Every lash was only feeding him. If she wanted to crack him, she would have to abandon the physical entirely and find a completely different weapon to break his spirit.
+Rosie stared at the bloody whip in her hand. Every lash was only feeding him. If she wanted to crack him, she would have to abandon the physical entirely and find another way in.
 
 "No, don't stop," he pleaded. "Please, keep going. I'd prefer it."
 
@@ -450,7 +463,7 @@ The smile never got there. Her boot landed.
 
 Not pain. Whatever lived behind his eyes went out all at once, replaced by something hypnotic and blank — awake, present, and empty, a mind with no one currently standing in it.
 
-It came out of him whether he wanted it to or not, a man reciting something he'd had no intention of ever saying, his own voice running ahead of whatever was left of his will to withhold it: the specific device, a broken metasurface controller of the sort that turned up in industrial scrap; where the optical processors had to be spliced in and how badly they had to be cooled; the pilot beam that had to stay weak and un-randomized so the lock would answer it instead of erasing whoever held it; the reflection that came back inverted, and what to measure in it, and how the numbers in that inversion mapped to coordinates. He gave her the tolerances. He gave her the failure modes. He gave her the sequence.
+It came out of him: which junked part to start from, a controller that turned up in industrial scrap; where the glass chips went and how cold they had to stay; the faint beam that had to stay weak and steady so the lock would answer it instead of erasing whoever held it; the reflection that came back inverted, and what to measure in it, and how the numbers in that inversion mapped to coordinates. He gave her the tolerances. He gave her the failure modes. He gave her the sequence.
 
 Rosie made him say all of it twice, her boot never leaving his chest.
 
@@ -458,19 +471,19 @@ Then a thought arrived, small and cold and obvious the second she had it.
 
 "You've already made one," she said. "Haven't you."
 
-It wasn't a question by the time it left her mouth, and his face answered before his mouth could catch up to it — the truth surfacing whether he wanted it seen or not.
+His face answered before his mouth could catch up.
 
 "Yes," he said.
 
 "Give it to me."
 
-"Untie me", he asked with a smirk.
+"Untie me," he said, with a smirk.
 
-"Where is it?", Rosie wasn't having it.
+"Where is it?" Rosie wasn't having it.
 
-"It's inside my case on the desk, inside the zipped top pocket"
+"It's inside my case on the desk, inside the zipped top pocket."
 
-She reached, slow, toward the case he'd been packing when she walked in, and drew out something small enough to close inside one fist: a slim metallic cylinder, cool and heavier than its size accounted for, a thread of light moving somewhere deep inside the metal — the vault's own oil-slick sheen, shrunk down and folded into a tube. Not a copy. Not a diagram. The thing itself, already made, already waiting for a hand that could survive holding it.
+She reached, slow, toward the case he'd been packing when she walked in, and drew out something small enough to close inside one fist: a slim metallic cylinder, cool and heavier than its size accounted for, a thread of light moving somewhere deep inside the metal — the vault's own oil-slick sheen, shrunk down and folded into a tube. The thing itself, already made, already waiting for a hand that could survive holding it.
 
 "Hand it to a pure blood, preferably young," he said, quiet now, none of the old pleasantness left anywhere in his voice.
 
@@ -482,17 +495,17 @@ Rosie closed her hand around the tube and stood up, her boot finally leaving his
 
 "Then I'll be there," she said, and left him on the floor of that room, in that dimension, alive.
 
-She was back on the edge of her bed 1 second after she'd left it, homework still open, her mother's television still murmuring through the wall, her hands perfectly clean and nothing anywhere on her to show for any of it — nothing except the cylinder itself, closed inside her fist, exactly as real and exactly as present as it had been on the other side.
+She was back on the edge of her bed one second after she'd left it, pen still in her hand, her mother's television still murmuring through the wall, her hands perfectly clean and nothing anywhere on her to show for any of it — nothing except the cylinder itself, closed inside her fist, exactly as real and exactly as present as it had been on the other side.
 
 ---
 
-Deep within the neon-lit maze of the city’s upper district, the high-voltage lab at Vanguard Advanced Energy hummed with its usual late-night static. On Sector 4’s primary assembly bench, a matte-black, six-inch prototype battery cylinder simply ceased to exist. There was no spark, no spatial tear, and no alarms tripped on the security grid; one second its heavy lithium-core signature registered on the local telemetry, and the next, the cradle was empty. 
+Deep within the neon-lit maze of the city’s upper district, the high-voltage lab at Vanguard Advanced Energy hummed with its usual late-night static. On Sector 4’s primary assembly bench, a matte-black, six-inch prototype battery cylinder simply ceased to exist. No alarm tripped on the security grid; one second its heavy lithium-core signature registered on the local telemetry, and the next, the cradle was empty. 
 
-The two researchers on shift remained completely oblivious, their eyes locked onto a cascading wall of thermal diagnostics just three feet away.
+The two researchers on shift had their backs to the bench, eyes on a cascading wall of thermal diagnostics three feet away.
 
 ---
 
-Down the hall, her brother was asleep, one month out from his fourteenth birthday, and had no idea any of it had happened.
+Down the hall, her brother was asleep, one month out from his fourteenth birthday, one arm flung off the edge of the mattress.
 
 ---
 
@@ -504,7 +517,7 @@ Mr. Abreu's shop sat wedged between a nail salon and a check-cashing place on Be
 
 "Family piece," she said, setting the cylinder on the counter between them, the lie rehearsed and ready. "Not worth anything on its own. I want it built into something. A bracelet."
 
-He turned it over in gloved fingers and tapped it once against the counter. Some sound came back that meant something to him and nothing at all to her. "Heavy for its size." A statement, not a question. "What's inside it?"
+He turned it over in gloved fingers and tapped it once against the counter. Some sound came back that meant something to him and nothing at all to her. "Heavy for its size. What's inside it?"
 
 "Nothing you need to open."
 
@@ -516,7 +529,7 @@ She sketched the rest herself, across three separate visits, adjusting it a litt
 
 "He'll need to," Rosie said, which was true, and answered nothing.
 
-She never told him what sat welded at the center of the finished piece, sealed now where no eye and no scale would ever find it again — the same cylinder that had cost a man his composure, and a lab across the city she'd never once set foot in, one prototype cylinder off a bench, though only one of those facts Rosie actually knew about.
+She never told him what sat welded at the center of the finished piece. It had cost a man in a white coat his composure. It had also cost a lab across the city one prototype off a bench, and that part Rosie didn't know.
 
 The card took longer than the bracelet had. Three drafts, sitting at her desk with the finished piece already boxed beside her, turning the rose key slowly under the lamp while she tried to find room in a birthday card for everything she meant and none of what she couldn't say. None of the three came close.
 
@@ -528,7 +541,7 @@ She couldn't exactly write about a wolf in a cellar.
 
 "—and the prompt's so vague," she was saying, fork up, a bite of egg on it, "that whatever I put down is gonna sound—"
 
-She'd been holding the cabin in her head since the toast came. The low front door with the iron latch. The floorboard by the stove that dipped when you stepped on it. Molly's bitter tea, steeping too long, always. The trapdoor she had ordered reinforced four hours ago — four hours on that side, four years on this one. She'd started the fractal count with the toast, nine seconds of it under her own talking, and nobody at the table could have seen it. Her eyes landed on the napkin dispenser and stayed there. She held all of it whole, and pushed.
+She'd been holding the cabin in her head since the toast came. The low front door with the iron latch. The floorboard by the stove that dipped when you stepped on it. Molly's bitter tea, steeping too long, always. The trapdoor she had ordered reinforced four hours ago — four hours on that side, four years on this one. She'd started the fractal count with the toast, nine seconds of it under her own talking. Her eyes landed on the napkin dispenser and stayed there. She held all of it whole, and pushed.
 
 The booth slid out from under her.
 
@@ -594,7 +607,7 @@ Molly dried her hands on her apron. "I slept two hours with my own brother chain
 
 "Good," Rosie said. "Let him."
 
-She hugged them both, the fourteen-year-old's arms around Molly's narrow back, and went out the front door past the bowing guards. She walked the path to the tree line and kept going, into the woods, until the cabin and the wolves at its door were gone behind the trunks. Nobody here needed to watch a girl blink out between two pines.
+She hugged them both, the fourteen-year-old's arms around Molly's narrow back, and went out the front door past the bowing guards. She walked the path to the tree line and kept going, into the woods, until the cabin and the wolves at its door were gone behind the trunks. She didn't want Claire at the window, watching a girl blink out between two pines.
 
 Alone, she said the words over to herself, twice, under her breath. Then she built the booth back up in her head — the split vinyl, the ketchup bottle with the crusted cap, Roman's fork scraping his plate — and pushed.
 
@@ -614,17 +627,19 @@ Two nights later, she copied from the receipt onto the card, and the fourth draf
 
 *This key symbolizes that the power is in your hands. That only you hold the key that will open the realm that you've always wanted to enter. You are in control. It's your destiny. Believe in yourself. Trust your instincts. Good luck tomorrow, I'll be there for you if you need me. Happy Birthday Romy! Love you! — RoRo!*
 
-She read it back twice. The words were right. But their origin would have to remain a mystery. She licked the envelope shut before a fifth draft could talk her out of it.
+She read it back twice. The words were right. She couldn't tell him where they came from. She licked the envelope shut before a fifth draft could talk her out of it.
 
-Whatever was sealed inside that band, she'd built it to protect him. Standing there with the box already sealed, she wasn't entirely sure that was true.
+Whatever was sealed inside that rose, she'd built it to protect him. Sitting at her desk with the box shut in front of her, she wasn't entirely sure that was true.
 
-She wrapped it that night and set it among the rest of the pile the next evening, once the family had started arriving — Danny's badly-taped rectangle, a stack of cousin-gifts, the garment bag their mother had been hiding all week — one small box that gave away nothing at all to anyone who didn't already know better.
+She wrapped it that night and set it among the rest of the pile the next evening, once the family had started arriving — Danny's badly-taped rectangle, a stack of cousin-gifts — one small box.
 
 ---
 
 ## Scene 8 — Age 18: The Cafeteria
 
 Rosie was out of the bathroom by six-forty, which on a first day counted as a miracle. She heard Roman's door open behind her the second hers shut, heard him shuffle down the hall and lock himself in, and she stood in her room with her hair half done and listened to the water run.
+
+Her room was still dark except for the desk lamp. She hadn't opened the blinds. The first-day outfit hung pressed on the closet door, her phone lay face-down on the dresser beside the brush, and the map over the desk still had its four pins in it, the red one too. Through the wall the pipes knocked as the shower ran hot. Down on the street a car alarm went off and quit. Rosie stood with the brush in her hand and didn't move it, counting where everyone was: Roman behind the bathroom door, Mom somewhere down the hall. Everyone where they belonged. It didn't help.
 
 He'd taken the bracelet off before bed. She'd checked at eleven, a crack in his door, the hall light falling across the wrist flung over the edge of the mattress: bare. The box sat open on the nightstand, the rose inside it.
 
@@ -677,7 +692,7 @@ He bumped it.
 
 ---
 
-She took the front seat. Mom drove with one hand on the wheel and her eyes going back and forth between the road and the rearview, and Rosie watched her do it four times before they hit Bergenline.
+She took the front seat. The car smelled of the vanilla air freshener clipped to the vent and of Mom's coffee in the cup holder, and the vinyl was still cold through her jeans. Mom drove with one hand on the wheel and her eyes going back and forth between the road and the rearview, and Rosie watched her do it four times before they hit Bergenline.
 
 "You're quiet back there," Mom said.
 
@@ -701,7 +716,7 @@ Mom didn't laugh. Her eyes went to the rearview and stayed there. "Why wouldn't 
 
 Rosie felt it before she thought it: *his head.* A question about his head was one phone call away from an appointment, and an appointment was one phone call away from a man with a clipboard who'd been taking notes on her brother since before he could walk.
 
-"Ma, he's joking," she said, fast, and started the count while she said it, eyes on the side of Mom's face. Nobody in the car could see it. She held the office whole in her head — the long white hallway, the numbered doors, the floor waxed to a shine — and pushed.
+"Ma, he's joking," she said, fast, and started the count while she said it, eyes on the side of Mom's face. She held the office whole in her head — the long white hallway, the numbered doors, the floor waxed to a shine — and pushed.
 
 ---
 
@@ -737,7 +752,7 @@ He considered her for a while. She let him, and looked around at the mess. She h
 
 "Never been given that either." The smile thinned. "You think I'm in charge of something. I'm a pair of hands. There's a board, and people above me move pieces across it, and I'm one of the pieces." He looked at the papers she'd scuffed. "So are you, probably. You just don't like hearing it."
 
-Rosie said nothing.
+"Somebody writes the rules for that board," Rosie said. "One day it's going to be me."
 
 A soldier. An injection meant to rebuild what the war had taken. Kids born after.
 
@@ -831,6 +846,8 @@ Rosie looked at the label too. Her stomach dropped, and she kept her shoulders w
 
 "I saw." Vic looked up. She was pink to the ears. "I almost fell down the steps."
 
+"I wanted you to see," Rosie said. It came out softer than she meant it to, and she didn't take it back.
+
 Rosie sat on the desk beside her, the one that had been hers last year, and took the pencil out of Vic's hand and set it down. Neither of them said anything. Vic's fingers found hers under the edge of the desk and held on.
 
 Rosie sat there holding her hand and counted what she was carrying. Erik around the corner. Vic beside her, not asking. Ferrer on his office floor. Baron and Larry, a world away. Roman. It was a lot of people to keep from running into each other. Vic's thumb moved over her knuckles, and for a minute it got lighter.
@@ -859,7 +876,7 @@ The teacher got to the C's. "Rosalie Casador."
 
 "Rosie," Rosie said.
 
-The teacher pointed to the fourth seat in row one, by the door, across the room from the windows. Rosie moved.
+The teacher pointed to the fourth seat in row one, by the door, across the room from the windows. Rosie moved. Over the door hung a poster, a sepia photograph of Emily Dickinson with the poem in looping script underneath, starting *Tell all the truth but tell it slant —*. Rosie read the first line and stopped.
 
 She looked across the room at the windows she'd just left. Her breathing changed on its own, dropping into the fractal count she had spent four years learning to summon. The air in the classroom went thin. For one heartbeat the sky over the parking lot had green under it, a deep emerald bleeding up under the blue.
 
@@ -869,7 +886,7 @@ Nerves, she told herself. First day. She picked her phone back up and answered V
 
 ---
 
-Fifth period was History, room 303, third floor. Fifth period was also Yesenia's lunch, and Rosie skipped the stairs and went down to the cafeteria instead, same as last year. She'd write herself a pass.
+Fifth period was History, room 303, third floor. Fifth period was also Yesenia's lunch, and Rosie skipped the stairs and went down to the cafeteria instead. She'd done it all last year. She'd write herself a pass.
 
 On the way she turned Erik over. *Meet your mom.* What he was really asking, and what he'd do if she said no. Under that was Roman, standing too still in his doorway, and she still didn't know why.
 
@@ -879,7 +896,7 @@ On the way she turned Erik over. *Meet your mom.* What he was really asking, and
 
 10:45. Fifth period had started a minute ago, and the cafeteria was filling up.
 
-The doors at the far end swung open, and Yesenia walked in a minute after the bell, same as always. She scanned the room once, found Rosie already sitting at their usual table, and peeled off toward the vending machine a few feet away first, digging in her bag for change — a candy bar first, then eggs from the breakfast line, a combination Rosie still hadn't stopped giving her grief about.
+The doors at the far end swung open, and Yesenia walked in a minute after the bell. She always did. She scanned the room once, found Rosie already sitting at their usual table, and peeled off toward the vending machine a few feet away first, digging in her bag for change — a candy bar first, then eggs from the breakfast line, a combination Rosie still hadn't stopped giving her grief about.
 
 Around the cafeteria, the teachers were settling into their corners, one to each, chatting with the kids nearest them, and the two on door duty took up their posts at the two doors, one at each end of the entrance wall. Mr. Meli was two tables over, leaning against the wall by the vending machines, coffee in hand, working through his week of mandatory cafeteria duty, usually spent scrolling a phone behind a clipboard.
 
@@ -887,19 +904,25 @@ Somewhere across the room the freshmen had claimed the tables by the doors. Rosi
 
 By 10:52, Yesenia was still stuck in the breakfast line, and the table was empty except for Rosie. She was already late to fifth period thanks to Yesenia.
 
-A gunshot rang out in the hallway about fifty feet from the cafeteria. It cracked flat and hard across the school, and Rosie's first thought was that someone had dropped a stack of trays by the kitchen — loud, careless, nothing more. A second shot cracked out right after it, and screaming broke out across in the hallway. Everyone in the cafeteria began to scatter coordinated and crawling under tables staying low, dozens of voices at once, and Rosie now understood that the bangs were not trays. She wondered where Roman was, then Yesenia, frantically scanning the cafeteria.
+A gunshot rang out in the hallway about fifty feet from the cafeteria. It cracked flat and hard across the school, and Rosie's first thought was that someone had dropped a stack of trays by the kitchen — loud, careless, nothing more. A second shot cracked out right after it, closer, and screaming broke out in the hallway.
 
-Across the room, the four teachers in the corners started their lockdown drill. They began herding students to a corner of the cafeteria, but as the shots rang closer time was running out and instead the teachers instructed the students to hide under the tables. No yelling, just hand motions. the teachers who normally stand by each door, one at each end of the entrance wall, had already locked them. Hearing the shooter approaching the cafeteria, Mr. Meli saw Rosie frozen in her seat, he grabbed her arm and pulled her behind the nearest vending machine, into a gap barely wide enough for one adult, let alone two people pressed into it together. He positioned his own body between her and the open room, angled so that anyone shooting into their corner would hit him first.
+The whole cafeteria went down at once, scattering, crawling under tables, staying low, dozens of voices going up together. Rosie stayed in her seat. She looked for Roman, then Yesenia, scanning the room and finding neither.
 
-The next several seconds were torturously detectable. Rosie heard more gunshots, evenly spaced, methodical, each one closer than the last. She heard the shooter's footsteps on the tile, unhurried, as though he had all the time he needed. She heard someone praying two tables over, the same six words on a loop. She could hear Mr. Meli breathing hard, too fast, from the back of his head only inches from her face. She lost track of how much time had actually passed — ten seconds, maybe two minutes — because she couldn't hold on to the order any of it arrived in.
+Across the room, the four teachers in the corners started their lockdown drill. They began herding students toward a corner, but the shots were coming closer, and they switched to sending everyone under the tables instead. No yelling, just hand motions. The two teachers on door duty, one at each end of the entrance wall, had already locked the doors.
+
+Mr. Meli saw Rosie frozen in her seat. He grabbed her arm and pulled her behind the nearest vending machine, into a gap barely wide enough for one adult, let alone two people pressed into it together. He put his own body between her and the open room, angled so that anyone shooting into their corner would hit him first.
+
+Rosie heard more gunshots, evenly spaced, methodical, each one closer than the last. She heard the shooter's footsteps on the tile, unhurried, as though he had all the time he needed. She heard someone praying two tables over, the same six words on a loop. Mr. Meli was breathing hard and too fast, the back of his head inches from her face. She lost track of how much time had actually passed — ten seconds, maybe two minutes — because she couldn't hold on to the order any of it arrived in.
 
 Her phone lit up in her lap. The time on it was 10:54 a.m. Roman was texting her, two messages stacked on top of each other — *Hey. I'm in the caf*, then, a minute later, *Where r u* — and she typed a reply back to him with thumbs shaking too hard to get it clean, but she managed *Behind a vending machine in the caf* anyway. She turned the camera around on the two of them without checking how it looked and sent that to him too, her and Mr. Meli, faces too close to the lens, both of them wearing the same expression. *You?* she typed after it, asking him the same question back, and hit send, and watched the little bar underneath it sit there, refusing to confirm it had gone anywhere at all.
 
 Rosie leaned toward the opposite edge of the vending machine — away from Mr. Meli, so his own body wouldn't block her view — and looked out.
 
-The shooter stood maybe twenty feet away, gun raised, moving down the row of tables at that same unhurried pace. She saw students shot under the tables, a few lying on the floor, bleeding. Lots of screaming. She had one clear look at him — young, sweating, a face she didn't recognize — before he turned away from her, pointing his weapon toward a few students crawling low for the door. The shooter took aim and fired at them. She thought of bum-rushing him from behind and ending it — but her eyes moved past him, pulled toward something else on the far side of the room.
+The shooter stood maybe twenty feet away, gun raised, moving down the row of tables at that same unhurried pace. Under the nearest table a boy in a Nets jersey lay on his side with the back of his head opened up, a wet red fan of hair and bone sprayed across the table leg and the tiles beyond it. The girl beside him held both hands over her stomach, and blood came up between her fingers in pulses, dark, almost black under the fluorescents, while her sneakers kept pushing at the floor and going nowhere. A tray had gone over; chocolate milk ran into the blood and turned it pink at the edges. The smell reached her then, copper and burnt powder and the sour stink of a body letting go.
 
-A young man stood across the room, against the wall between the two doors, dressed in dark jeans and the Basquiat shirt — the same one Roman had put on that very morning — except where his face should have been, there was a long metal barrel instead, already leveled, a low hum climbing in pitch, the air around its mouth starting to shimmer. It was pointed at the shooter, and at Rosie, directly in line behind him.
+She had one clear look at him — young, sweating, a face she didn't recognize — before he turned away from her, pointing his weapon toward a few students crawling low for the door. The shooter took aim and fired at them. She thought of bum-rushing him from behind and ending it — but her eyes moved past him, pulled toward something else on the far side of the room.
+
+A young man crouched across the room, low against the wall near the doors, dressed in dark jeans and the Basquiat shirt — the same one Roman had put on that very morning — except where his face should have been, there was a long metal barrel instead, already leveled, a low hum climbing in pitch, the air around its mouth starting to shimmer. It was pointed at the shooter, and at Rosie, directly in line behind him.
 
 Rosie had no time to work out the shirt, the barrel, what any of it meant. She knew one thing: she had to slip, now.
 
@@ -915,27 +938,27 @@ It was whole and ordinary, humming with the low mid-morning noise of a room that
 
 She checked her phone before she checked anything else. 10:45. Fifth period had started one minute ago.
 
-The texts were gone — not unread, simply absent, the thread reset to whatever it had been before any of it happened. She typed *Where r u* to Roman this time, the same three words he sent her earlier, and it went through instantly.
+The texts were gone, the thread reset to whatever it had been before any of it happened. She typed *Where r u* to Roman this time, the same three words he sent her earlier, and it went through instantly.
 
 *Look straight ahead*, he wrote back, half a second later. *It's my lunch..dum dum*
 
 Rosie looked up and across the cafeteria.
 
-Roman was two tables to her right but toward the other door, sitting with Andrew and two other girls. She smiled at him, wide and strange, more relief in it than any ordinary hello should have carried, and he caught it from across the room and made a face back at her — the face of a younger brother convinced his sister had lost her mind.
+Roman was two tables to her right but toward the other door, sitting with Andrew and two girls. She smiled at him, wide and strange, more relief in it than any ordinary hello should have carried, and he caught it from across the room and made a face back at her — the face of a younger brother convinced his sister had lost her mind.
 
 Her phone had read 10:54 behind the vending machine. It read 10:45 now. Nine minutes, to the minute. Rosie didn't do the math. She was too busy looking at her brother.
 
-The doors at the far end swung open, and Yesenia walked in a minute after the bell, same as always. She scanned the room once, found Rosie already sitting at their usual table, and peeled off toward the vending machine a few feet away first, digging in her bag for change.
+The doors at the far end swung open, and Yesenia walked in a minute after the bell. She always did. She scanned the room once, found Rosie already sitting at their usual table, and peeled off toward the vending machine a few feet away first, digging in her bag for change.
 
 Rosie had already watched her do this. Same doors, same one-look scan of the room, same hand digging through the same bag. Around the cafeteria, the teachers were settling into their corners, one to each, and the two on door duty were taking up their posts at the two doors, one at each end of the entrance wall — all of it arriving in the same order it had arrived once already this morning, in the other cafeteria. Rosie's pulse climbed into her throat. She kept her hands flat on the table and her face bored, a senior waiting on a friend, and let none of it reach the surface.
 
-Mr. Meli was two tables over, leaning against the wall by the vending machines, coffee in hand — the same spot, the same cup. He was staring down at the cup, then up at the far wall, still standing whole, then back down at the cup, blinking hard, mouth hanging open. All the color had gone out of his face. When he found her, his eyebrows went up and stayed there, waiting.
+Mr. Meli was two tables over, leaning against the wall by the vending machines, coffee in hand. He was staring down at the cup, then up at the far wall, still standing whole, then back down at the cup, blinking hard, mouth hanging open. All the color had gone out of his face. When he found her, his eyebrows went up and stayed there, waiting.
 
 Rosie didn't have an answer worth giving him. Not one he could survive hearing, standing in the middle of a cafeteria at 10:45 in the morning.
 
-She checked her phone. 10:46. Fifth period — the same fifth period.
+She checked her phone. 10:46. Fifth period.
 
-Then it came together. The texts gone from her thread. Yesenia walking in a minute after the bell, digging for change. The teachers drifting into their corners, the door monitors taking their posts. Mr. Meli against the wall with his coffee, exactly where he'd stood the first time. She had watched every piece of it already, once, before 10:54 — and the whole morning had been wound back nine minutes and let run again.
+Then it came together. She had watched every piece of it already, once, before 10:54 — and the whole morning had been wound back nine minutes and let run again.
 
 Which meant everything after it was coming again too.
 
