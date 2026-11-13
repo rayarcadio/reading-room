@@ -124,7 +124,29 @@ Dawn came back a few minutes later with the drinks, set them down, pulled her pa
 
 Dawn wrote it without looking up. "And for the ladies?"
 
-Mom and Rosie ordered — I wasn't really looking at either of them while they did it, watching instead an old man in another booth read an actual physical newspaper, dead serious about it, some relic out of 2005, he was sort of whispering reading..but I heard every word anyway from a few tables away — a Mets score, the price of gas in Secaucus, somebody's obituary. Then Mom said she had to use the bathroom right quick, and slid out of the booth.
+Mom and Rosie ordered — I wasn't really looking at either of them while they did it, watching instead an old man in another booth with an actual physical newspaper spread open in front of him, dead serious about it, some relic out of 2005. He had one of those white earbud wires hanging from his ear, the little mic bead resting on his collar, and he was talking into it low, barely moving his lips, but I heard every word anyway from a few tables away. *Family of three. Window booth. Usual order.*
+
+I figured he was on the phone with his wife or whatever. I kept sneaking looks at him anyway, side-eye, maybe ten seconds' worth, and then he glanced up and our eyes locked for about one second before I dropped mine to the placemat.
+
+*Kid's watching me,* he said into the mic, same low voice. *The boy.*
+
+I almost laughed. Bro was narrating his breakfast to somebody. He folded the paper back, cleared his throat, and started reading out of it in that same whisper instead — a Mets score, the Giants' preseason, somebody's batting average — glancing up toward our booth over the top of the page every few seconds for most of a minute. Funny weird. I let it go. Guy was probably on with his bookie.
+
+When he turned the page, I caught a little box down in the corner of it, in that fat tabloid font: JERSEY DEVIL "OCTOPUS BOY" — WITNESSES STILL SWEAR IT HAPPENED. Under it, smaller: *Six Flags riders stand by story of teen with "extra arms" on stalled coaster. Are they among us?*
+
+"You're staring at that man," Rosie said, eyes on her menu. "It's rude."
+
+"I'm not staring."
+
+"You're staring." She followed my eyes and lit up. "Oh my God, the octopus kid. Did you see that? The Six Flags thing? People are still posting about it."
+
+"What Six Flags thing?"
+
+I'd watched every blurry clip of it and drawn a superhero version of the kid in my journal. But Rosie had called me a geek enough times for one lifetime.
+
+"Forget it," she said. "You'd hate it."
+
+Then Mom said she had to use the bathroom right quick, and slid out of the booth.
 
 Across the diner, in the other dining room, Mom leaned into the bar counter and said something to Dawn, low, quick, meant for nobody but Dawn — I focused on them and was able to catch every syllable of it, easy as anything. *Can you put a candle in his plate when it comes out? It's his birthday, thank you.*
 
